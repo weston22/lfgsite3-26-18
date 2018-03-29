@@ -1,258 +1,517 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfg.com" resolutions="1x" timestamp="1522030494825">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfg.com" resolutions="1x" timestamp="1522364448320">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="402789835" ref="about-us:index:products:open-an-account:platform:partnership"/>
-    <file name="about-us.css" crc="476915727" ref="about-us"/>
-    <file name="index.css" crc="320436240" ref="index"/>
-    <file name="products.css" crc="3960346546" ref="products"/>
-    <file name="open-an-account.css" crc="103551873" ref="open-an-account"/>
-    <file name="platform.css" crc="3854339836" ref="platform"/>
-    <file name="partnership.css" crc="118195590" ref="partnership"/>
+    <file name="master_a-master.css" crc="89858724" ref="platform:index:about-us:open-an-account:partnership:products"/>
+    <file name="nomq_preview_master_a-master.css" crc="284399870" ref="platform:index:about-us:open-an-account:partnership:products"/>
+    <file name="platform.css" crc="472869728" ref="platform"/>
+    <file name="nomq_platform.css" crc="3840730487" ref="platform"/>
+    <file name="index.css" crc="417145697" ref="index"/>
+    <file name="nomq_index.css" crc="479821801" ref="index"/>
+    <file name="about-us.css" crc="4237235247" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="233795216" ref="about-us"/>
+    <file name="open-an-account.css" crc="4260276636" ref="open-an-account"/>
+    <file name="nomq_open-an-account.css" crc="11664534" ref="open-an-account"/>
+    <file name="partnership.css" crc="461853252" ref="partnership"/>
+    <file name="nomq_partnership.css" crc="11736128" ref="partnership"/>
+    <file name="products.css" crc="4284266764" ref="products"/>
+    <file name="nomq_products.css" crc="279675158" ref="products"/>
+  </folder>
+  <folder name="fonts">
+    <file name="mont-heavydemo.woff" crc="25595404"/>
+    <file name="mont-heavydemo.eot" crc="4176944108"/>
+  </folder>
+  <folder name="assets">
+    <file name="lfg-home-page.svgz" crc="3776409364" seo="true" mt="1522296643000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="museutils.js" crc="46400467" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="whatinput.js" crc="86476730" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="museconfig.js" crc="436936948" ref="index:products:open-an-account:platform:partnership:about-us"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index:products:open-an-account:platform:partnership:about-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:products:platform:partnership:about-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:products:open-an-account:platform:partnership:about-us"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="require.js" crc="85721165" ref="index:products:open-an-account:platform:partnership:about-us"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-192233x819.svg" crc="4193226397" seo="true" ref="index">
+    <file name="pasted-svg-215247x197.svg" crc="79885585" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+    </file>
+    <file name="pasted svg 215247x197_poster_.png" crc="316855283" ref="index"/>
+    <file name="home pahge carosel crop small.png" crc="3921752036" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 192233x819_poster_.png" crc="436898287" ref="index"/>
-    <file name="whatsapp image 2018-03-06 at 53305 pm.jpg" crc="3978382705" seo="true" ref="index">
+    <file name="pasted-svg-877x367.svg" crc="4126184279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-1921x886.svg" crc="3877464491" seo="true" ref="index">
+    <file name="pasted svg 877x367_poster_.png" crc="4239315309" ref="index"/>
+    <file name="pasted-svg-209662x150.svg" crc="3803028504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 1921x886_poster_.png" crc="3807725059" ref="index"/>
-    <file name="pasted-svg-1921x654.svg" crc="4238133507" seo="true" ref="index">
+    <file name="pasted svg 209662x150_poster_.png" crc="17965056" ref="index"/>
+    <file name="pasted-svg-292.svg" crc="434295498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 1921x654_poster_.png" crc="179046603" ref="index"/>
-    <file name="pasted-svg-1711.svg" crc="308923987" seo="true" ref="index">
+    <file name="pasted svg 292_poster_.png" crc="230403849" ref="index"/>
+    <file name="pasted-svg-2922.svg" crc="108229926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 1711_poster_.png" crc="3900943609" ref="index"/>
-    <file name="pasted-svg-1584x284.svg" crc="4270196450" seo="true" ref="index">
+    <file name="pasted svg 292_poster_2.png" crc="249594328" ref="index"/>
+    <file name="pasted-svg-2923.svg" crc="3847714095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 1584x284_poster_.png" crc="452578548" ref="index"/>
+    <file name="pasted svg 292_poster_3.png" crc="3763576426" ref="index"/>
+    <file name="pasted-svg-2924.svg" crc="333837605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 292_poster_4.png" crc="507433485" ref="index"/>
+    <file name="pasted-svg-301485x99.svg" crc="371892913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 301485x99_poster_.png" crc="241719553" ref="index"/>
+    <file name="pasted-svg-40198x91.svg" crc="509701655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 40198x91_poster_.png" crc="48972743" ref="index"/>
+    <file name="pasted-svg-349483x105.svg" crc="233768556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 349483x105_poster_.png" crc="3797100965" ref="index"/>
+    <file name="pasted-svg-224989x75.svg" crc="3793420509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 224989x75_poster_.png" crc="4064259659" ref="index"/>
+    <file name="pasted-svg-293x492.svg" crc="99023293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 293x492_poster_.png" crc="89964039" ref="index"/>
+    <file name="pasted-svg-294x492.svg" crc="209521887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 294x492_poster_.png" crc="4047148716" ref="index"/>
+    <file name="pasted-svg-294x4922.svg" crc="3889171169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 294x492_poster_2.png" crc="4005928639" ref="index"/>
+    <file name="pasted-svg-293x4922.svg" crc="515069719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 293x492_poster_2.png" crc="265217964" ref="index"/>
+    <file name="platform section.jpg" crc="4239421988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-811473x424.svg" crc="3923623291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 811473x424_poster_.png" crc="3922674730" ref="index"/>
+    <file name="pasted-svg-477x77.svg" crc="4013785724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 477x77_poster_.png" crc="3850551898" ref="index"/>
     <file name="pasted-svg-187491x41.svg" crc="22775639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 187491x41_poster_.png" crc="4227979125" ref="index"/>
+    <file name="pasted-svg-1584x284.svg" crc="4270196450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1584x284_poster_.png" crc="452578548" ref="index"/>
     <file name="pasted-svg-208707x276.svg" crc="420599088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 208707x276_poster_.png" crc="4152654126" ref="index"/>
-    <file name="u1220-4.png" crc="3883493911" ref="index"/>
+    <file name="u1220-4.png" crc="535201839" ref="index"/>
     <file name="pasted-svg-145x4.svg" crc="3797085039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 145x4_poster_.png" crc="4201157186" ref="index"/>
+    <file name="pasted svg 145x4_poster_.png" crc="337513659" ref="index"/>
     <file name="pasted-svg-420.svg" crc="4036968309" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
       <caption webpage="index" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="platform" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="products" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
     </file>
     <file name="pasted svg 420_poster_.png" crc="10861209" ref="index"/>
     <file name="pasted-svg-753463x100.svg" crc="250966194" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
       <caption webpage="index" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="platform" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="products" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
     </file>
     <file name="pasted svg 753463x100_poster_.png" crc="4289623849" ref="index"/>
-    <file name="pasted-svg-24998x107.svg" crc="3882819291" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
+    <file name="u1220-42.png" crc="506985462" ref="index"/>
+    <file name="platform section1414x493.jpg" crc="3853018693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u1220-43.png" crc="86275331" ref="index"/>
+    <file name="platform section1255x437.jpg" crc="4125168565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1220-44.png" crc="425268241" ref="index"/>
+    <file name="platform section960x335.jpg" crc="3808611147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1220-45.png" crc="4204812147" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:products:open-an-account:platform:partnership:about-us"/>
+    <file name="pasted-svg-877x3672.svg" crc="3845700954" seo="true" ref="products">
       <caption webpage="products" alt=""/>
-      <caption webpage="partnership" alt=""/>
-    </file>
-    <file name="pasted svg 24998x107_poster_.png" crc="3973144213" ref="index"/>
-    <file name="pasted-svg-1808072x205.svg" crc="372588051" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 1808072x205_poster_.png" crc="82853498" ref="index"/>
-    <file name="pasted-svg-292.svg" crc="434295498" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_.png" crc="230403849" ref="index"/>
-    <file name="pasted-svg-301485x99.svg" crc="371892913" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 301485x99_poster_.png" crc="241719553" ref="index"/>
-    <file name="pasted-svg-293x492.svg" crc="99023293" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 293x492_poster_.png" crc="89964039" ref="index"/>
-    <file name="pasted-svg-1579065x79.svg" crc="4195337283" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
-      <caption webpage="index" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="about-us" alt=""/>
       <caption webpage="products" alt=""/>
-      <caption webpage="partnership" alt=""/>
-    </file>
-    <file name="pasted svg 1579065x79_poster_.png" crc="23752118" ref="index"/>
-    <file name="pasted-svg-2922.svg" crc="108229926" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_2.png" crc="249594328" ref="index"/>
-    <file name="pasted-svg-40198x91.svg" crc="509701655" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 40198x91_poster_.png" crc="48972743" ref="index"/>
-    <file name="pasted-svg-294x492.svg" crc="209521887" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 294x492_poster_.png" crc="4047148716" ref="index"/>
-    <file name="pasted-svg-811473x424.svg" crc="3923623291" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 811473x424_poster_.png" crc="3922674730" ref="index"/>
-    <file name="pasted-svg-209662x150.svg" crc="3803028504" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 209662x150_poster_.png" crc="17965056" ref="index"/>
-    <file name="pasted-svg-2923.svg" crc="3847714095" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_3.png" crc="3763576426" ref="index"/>
-    <file name="pasted-svg-349483x105.svg" crc="233768556" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 349483x105_poster_.png" crc="3797100965" ref="index"/>
-    <file name="pasted-svg-294x4922.svg" crc="3889171169" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 294x492_poster_2.png" crc="4005928639" ref="index"/>
-    <file name="pasted-svg-477x77.svg" crc="4013785724" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 477x77_poster_.png" crc="3850551898" ref="index"/>
-    <file name="pasted-svg-2924.svg" crc="333837605" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_4.png" crc="507433485" ref="index"/>
-    <file name="pasted-svg-224989x75.svg" crc="3793420509" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 224989x75_poster_.png" crc="4064259659" ref="index"/>
-    <file name="pasted-svg-293x4922.svg" crc="515069719" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 293x492_poster_2.png" crc="265217964" ref="index"/>
-    <file name="pasted-svg-1925101x796.svg" crc="3881993462" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="pasted svg 1925101x796_poster_.png" crc="287893981" ref="products"/>
+    <file name="pasted svg 877x367_poster_2.png" crc="267857418" ref="products"/>
+    <file name="products header.jpg" crc="45880631" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="pasted-svg-877x3673.svg" crc="157492130" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="pasted svg 877x367_poster_3.png" crc="267857418" ref="products"/>
     <file name="pasted-svg-4895x54.svg" crc="222264852" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
     <file name="pasted svg 4895x54_poster_.png" crc="127313793" ref="products"/>
     <file name="pasted-svg-1712x1420.svg" crc="3900670521" seo="true" ref="products">
       <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
     </file>
     <file name="pasted svg 1712x1420_poster_.png" crc="116771002" ref="products"/>
     <file name="pasted-svg-1161x387.svg" crc="4116349115" seo="true" ref="products">
       <caption webpage="products" alt=""/>
-    </file>
-    <file name="pasted svg 1161x387_poster_.png" crc="3971251488" ref="products"/>
-    <file name="pasted-svg-877x367.svg" crc="3845700954" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="pasted svg 877x367_poster_.png" crc="267857418" ref="products"/>
-    <file name="u1285-4.png" crc="3798349534" ref="open-an-account"/>
+    <file name="pasted svg 1161x387_poster_.png" crc="3971251488" ref="products"/>
+    <file name="u1285-4.png" crc="43201894" ref="open-an-account"/>
     <file name="u1288-4.png" crc="174241260" ref="open-an-account"/>
-    <file name="pasted-svg-612726x1104.svg" crc="4260909959" seo="true" ref="open-an-account">
-      <caption webpage="open-an-account" alt=""/>
-    </file>
-    <file name="pasted svg 612726x1104_poster_.png" crc="522221525" ref="open-an-account"/>
     <file name="pasted-svg-680x990.svg" crc="459461624" seo="true" ref="open-an-account">
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
       <caption webpage="open-an-account" alt=""/>
     </file>
     <file name="pasted svg 680x990_poster_.png" crc="3899189059" ref="open-an-account"/>
     <file name="u1388-8.png" crc="4106700647" ref="open-an-account"/>
+    <file name="u1285-42.png" crc="4117868431" ref="open-an-account"/>
+    <file name="u1288-42.png" crc="4151313023" ref="open-an-account"/>
+    <file name="u1388-82.png" crc="361641481" ref="open-an-account"/>
+    <file name="u1285-43.png" crc="3792968016" ref="open-an-account"/>
+    <file name="u1288-43.png" crc="4160949218" ref="open-an-account"/>
+    <file name="u1388-83.png" crc="147991442" ref="open-an-account"/>
+    <file name="u1285-44.png" crc="396823104" ref="open-an-account"/>
+    <file name="u1288-44.png" crc="4096365867" ref="open-an-account"/>
+    <file name="u1388-84.png" crc="4238110641" ref="open-an-account"/>
+    <file name="u1285-45.png" crc="357562357" ref="open-an-account"/>
+    <file name="u1288-45.png" crc="50691168" ref="open-an-account"/>
+    <file name="u1388-85.png" crc="4215262328" ref="open-an-account"/>
+    <file name="platform header.jpg" crc="284374751" ref="platform">
+      <caption webpage="platform" alt=""/>
+    </file>
+    <file name="pasted-svg-877x3674.svg" crc="136843548" seo="true" ref="platform">
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+    </file>
+    <file name="pasted svg 877x367_poster_4.png" crc="265060820" ref="platform"/>
+    <file name="pasted-svg-352482x107.svg" crc="520912299" seo="true" ref="platform">
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+    </file>
+    <file name="pasted svg 352482x107_poster_.png" crc="4107473402" ref="platform"/>
     <file name="pasted-svg-63953x639.svg" crc="432892386" seo="true" ref="platform">
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
       <caption webpage="platform" alt=""/>
     </file>
     <file name="pasted svg 63953x639_poster_.png" crc="221597221" ref="platform"/>
     <file name="pasted-svg-695708x100.svg" crc="378232210" seo="true" ref="platform">
       <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
     </file>
     <file name="pasted svg 695708x100_poster_.png" crc="108931452" ref="platform"/>
     <file name="pasted-svg-1334344x290.svg" crc="4266838400" seo="true" ref="platform">
       <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
     </file>
     <file name="pasted svg 1334344x290_poster_.png" crc="269510603" ref="platform"/>
-    <file name="pasted-svg-1925x1536.svg" crc="521370880" seo="true" ref="platform">
-      <caption webpage="platform" alt=""/>
-    </file>
-    <file name="pasted svg 1925x1536_poster_.png" crc="68883466" ref="platform"/>
-    <file name="pasted-svg-352482x107.svg" crc="520912299" seo="true" ref="platform">
-      <caption webpage="platform" alt=""/>
-    </file>
-    <file name="pasted svg 352482x107_poster_.png" crc="4107473402" ref="platform"/>
-    <file name="pasted-svg-877x3672.svg" crc="136843548" seo="true" ref="platform">
-      <caption webpage="platform" alt=""/>
-    </file>
-    <file name="pasted svg 877x367_poster_2.png" crc="265060820" ref="platform"/>
-    <file name="u1428-4.png" crc="3937773130" ref="platform"/>
-    <file name="pasted-svg-2048603x1536.svg" crc="3911563946" seo="true" ref="partnership">
-      <caption webpage="partnership" alt=""/>
-    </file>
-    <file name="pasted svg 2048603x1536_poster_.png" crc="4290597783" ref="partnership"/>
     <file name="pasted-svg-1921x1439.svg" crc="65877283" seo="true" ref="partnership">
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
     </file>
     <file name="pasted svg 1921x1439_poster_.png" crc="37322809" ref="partnership"/>
-    <file name="u1557-4.png" crc="3937773130" ref="partnership"/>
-    <file name="pasted-svg-877x3673.svg" crc="1290981" seo="true" ref="partnership">
+    <file name="partnership header.jpg" crc="4256171799" ref="partnership">
       <caption webpage="partnership" alt=""/>
     </file>
-    <file name="pasted svg 877x367_poster_3.png" crc="473297934" ref="partnership"/>
-    <file name="pasted-svg-2066708x1251.svg" crc="4101322189" seo="true" ref="about-us">
+    <file name="pasted-svg-877x3675.svg" crc="1290981" seo="true" ref="partnership">
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+    </file>
+    <file name="pasted svg 877x367_poster_5.png" crc="473297934" ref="partnership"/>
+    <file name="u1557-4.png" crc="3937773130" ref="partnership"/>
+    <file name="u1557-42.png" crc="4250983778" ref="partnership"/>
+    <file name="u1557-43.png" crc="238673610" ref="partnership"/>
+    <file name="u1557-44.png" crc="3830043705" ref="partnership"/>
+    <file name="partnership header-u12363-fr.jpg" crc="4267133713" ref="partnership"/>
+    <file name="u1557-45.png" crc="3974674024" ref="partnership"/>
+    <file name="u1621-4.png" crc="3937773130" ref="about-us"/>
+    <file name="about us header.jpg" crc="4226766512" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="pasted svg 2066708x1251_poster_.png" crc="4104219756" ref="about-us"/>
+    <file name="pasted-svg-877x3676.svg" crc="3946464508" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pasted svg 877x367_poster_6.png" crc="4028250840" ref="about-us"/>
     <file name="pasted-svg-1922x242.svg" crc="3992991579" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
     <file name="pasted svg 1922x242_poster_.png" crc="4002345818" ref="about-us"/>
     <file name="pasted-svg-1333135x290.svg" crc="30851605" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
     <file name="pasted svg 1333135x290_poster_.png" crc="209573129" ref="about-us"/>
     <file name="pasted-svg-1442x551.svg" crc="3896966783" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
-    </file>
-    <file name="pasted svg 1442x551_poster_.png" crc="4027023152" ref="about-us"/>
-    <file name="pasted-svg-877x3674.svg" crc="3946464508" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="pasted svg 877x367_poster_4.png" crc="4028250840" ref="about-us"/>
-    <file name="u1621-4.png" crc="3937773130" ref="about-us"/>
-    <file name="u1649-4.png" crc="108180758" ref="about-us"/>
+    <file name="pasted svg 1442x551_poster_.png" crc="4027023152" ref="about-us"/>
+    <file name="u1621-42.png" crc="4250983778" ref="about-us"/>
+    <file name="u1621-43.png" crc="238673610" ref="about-us"/>
+    <file name="u1621-44.png" crc="3830043705" ref="about-us"/>
+    <file name="u1621-45.png" crc="3974674024" ref="about-us"/>
+    <file name="about us header-u12454-fr.jpg" crc="178430034" ref="about-us"/>
   </folder>
-  <file name="index.html" crc="3816524906" seo="true" mt="1522029267765" redirect="true"/>
-  <file name="products.html" crc="4285797365" seo="true" mt="1522029267762" redirect="true"/>
-  <file name="open-an-account.html" crc="4115297968" seo="true" mt="1522029267762" redirect="true"/>
-  <file name="platform.html" crc="4042537736" seo="true" mt="1522029267762" redirect="true"/>
-  <file name="partnership.html" crc="3763256001" seo="true" mt="1522029267762" redirect="true"/>
-  <file name="about-us.html" crc="371119647" seo="true" mt="1522029267762" redirect="true"/>
+  <file name="index.html" crc="3890780732" seo="true" mt="1522363765956" redirect="true"/>
+  <file name="products.html" crc="463551061" seo="true" mt="1522363765956" redirect="true"/>
+  <file name="open-an-account.html" crc="3925401414" seo="true" mt="1522363765956" redirect="true"/>
+  <file name="platform.html" crc="534846805" seo="true" mt="1522363765956" redirect="true"/>
+  <file name="partnership.html" crc="3764633596" seo="true" mt="1522363765956" redirect="true"/>
+  <file name="about-us.html" crc="4178991000" seo="true" mt="1522364404390" redirect="true"/>
 </manifest>

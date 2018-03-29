@@ -2,29 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://lfg.com/index.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-192233x819.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-215247x197.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/whatsapp%20image%202018-03-06%20at%2053305%20pm.jpg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-877x367.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1921x886.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-209662x150.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1921x654.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-292.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1711.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-2922.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1584x284.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-2923.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-2924.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-301485x99.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-40198x91.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-349483x105.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-224989x75.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-293x492.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-294x492.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-294x4922.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-293x4922.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/platform%20section.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-811473x424.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-477x77.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-187491x41.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-1584x284.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-208707x276.svg</image:loc>
@@ -39,65 +78,23 @@
       <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-24998x107.svg</image:loc>
+      <image:loc>http://lfg.com/images/platform%20section1414x493.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1808072x205.svg</image:loc>
+      <image:loc>http://lfg.com/images/platform%20section1255x437.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-292.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-301485x99.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-293x492.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1579065x79.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-2922.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-40198x91.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-294x492.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-811473x424.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-209662x150.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-2923.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-349483x105.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-294x4922.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-477x77.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-2924.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-224989x75.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-293x4922.svg</image:loc>
+      <image:loc>http://lfg.com/images/platform%20section960x335.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfg.com/products.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <loc>http://lfg.com/open-an-account.html</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-215247x197.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-420.svg</image:loc>
     </image:image>
@@ -105,13 +102,28 @@
       <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-24998x107.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-680x990.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://lfg.com/products.html</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-215247x197.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1579065x79.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-420.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1925101x796.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-877x3672.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-877x3673.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-4895x54.svg</image:loc>
@@ -122,15 +134,15 @@
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-1161x387.svg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-877x367.svg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://lfg.com/open-an-account.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <loc>http://lfg.com/partnership.html</loc>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-215247x197.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-420.svg</image:loc>
     </image:image>
@@ -138,23 +150,20 @@
       <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-24998x107.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-1921x1439.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1579065x79.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-612726x1104.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-680x990.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-877x3675.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://lfg.com/platform.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-215247x197.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-420.svg</image:loc>
     </image:image>
@@ -162,10 +171,10 @@
       <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-24998x107.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-877x3674.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1579065x79.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-352482x107.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-63953x639.svg</image:loc>
@@ -176,48 +185,15 @@
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-1334344x290.svg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1925x1536.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-352482x107.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-877x3672.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://lfg.com/partnership.html</loc>
-    <lastmod>2018-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-420.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-24998x107.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1579065x79.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-2048603x1536.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1921x1439.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-877x3673.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://lfg.com/about-us.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfg.com/images/pasted-svg-215247x197.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-420.svg</image:loc>
     </image:image>
@@ -225,13 +201,7 @@
       <image:loc>http://lfg.com/images/pasted-svg-753463x100.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-24998x107.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-1579065x79.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-2066708x1251.svg</image:loc>
+      <image:loc>http://lfg.com/images/pasted-svg-877x3676.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-1922x242.svg</image:loc>
@@ -242,8 +212,11 @@
     <image:image>
       <image:loc>http://lfg.com/images/pasted-svg-1442x551.svg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://lfg.com/images/pasted-svg-877x3674.svg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://lfg.com/assets/lfg-home-page.svgz</loc>
+    <lastmod>2018-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
