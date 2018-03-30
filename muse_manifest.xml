@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfg.com" resolutions="1x" timestamp="1522364448320">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfg.com" resolutions="1x" timestamp="1522370327752">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="89858724" ref="platform:index:about-us:open-an-account:partnership:products"/>
+    <file name="master_a-master.css" crc="104950086" ref="platform:index:about-us:open-an-account:partnership:products"/>
     <file name="nomq_preview_master_a-master.css" crc="284399870" ref="platform:index:about-us:open-an-account:partnership:products"/>
-    <file name="platform.css" crc="472869728" ref="platform"/>
-    <file name="nomq_platform.css" crc="3840730487" ref="platform"/>
-    <file name="index.css" crc="417145697" ref="index"/>
-    <file name="nomq_index.css" crc="479821801" ref="index"/>
-    <file name="about-us.css" crc="4237235247" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="233795216" ref="about-us"/>
-    <file name="open-an-account.css" crc="4260276636" ref="open-an-account"/>
-    <file name="nomq_open-an-account.css" crc="11664534" ref="open-an-account"/>
-    <file name="partnership.css" crc="461853252" ref="partnership"/>
-    <file name="nomq_partnership.css" crc="11736128" ref="partnership"/>
-    <file name="products.css" crc="4284266764" ref="products"/>
-    <file name="nomq_products.css" crc="279675158" ref="products"/>
+    <file name="platform.css" crc="3842423661" ref="platform"/>
+    <file name="nomq_platform.css" crc="4089200473" ref="platform"/>
+    <file name="index.css" crc="53093600" ref="index"/>
+    <file name="nomq_index.css" crc="4028539236" ref="index"/>
+    <file name="about-us.css" crc="506524559" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4121167258" ref="about-us"/>
+    <file name="open-an-account.css" crc="4126114674" ref="open-an-account"/>
+    <file name="nomq_open-an-account.css" crc="497157136" ref="open-an-account"/>
+    <file name="partnership.css" crc="443931537" ref="partnership"/>
+    <file name="nomq_partnership.css" crc="4278668130" ref="partnership"/>
+    <file name="products.css" crc="3843320936" ref="products"/>
+    <file name="nomq_products.css" crc="431178112" ref="products"/>
   </folder>
   <folder name="fonts">
     <file name="mont-heavydemo.woff" crc="25595404"/>
@@ -36,6 +36,7 @@
     <file name="require.js" crc="85721165" ref="index:products:open-an-account:platform:partnership:about-us"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="515777583" ref="index"/>
     <file name="pasted-svg-215247x197.svg" crc="79885585" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -69,17 +70,17 @@
       <caption webpage="open-an-account" alt=""/>
     </file>
     <file name="pasted svg 215247x197_poster_.png" crc="316855283" ref="index"/>
-    <file name="home pahge carosel crop small.png" crc="3921752036" ref="index">
+    <file name="home header.jpg" crc="229649037" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-877x367.svg" crc="4126184279" seo="true" ref="index">
+    <file name="pasted-svg-877x367.svg" crc="3852192213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 877x367_poster_.png" crc="4239315309" ref="index"/>
+    <file name="pasted svg 877x367_poster_.png" crc="203763820" ref="index"/>
     <file name="pasted-svg-209662x150.svg" crc="3803028504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,14 +153,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 224989x75_poster_.png" crc="4064259659" ref="index"/>
-    <file name="pasted-svg-293x492.svg" crc="99023293" seo="true" ref="index">
+    <file name="pasted-svg-293x492.svg" crc="95437058" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 293x492_poster_.png" crc="89964039" ref="index"/>
+    <file name="pasted svg 293x492_poster_.png" crc="4089939586" ref="index"/>
     <file name="pasted-svg-294x492.svg" crc="209521887" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -243,7 +244,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 208707x276_poster_.png" crc="4152654126" ref="index"/>
-    <file name="u1220-4.png" crc="535201839" ref="index"/>
     <file name="pasted-svg-145x4.svg" crc="3797085039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -251,7 +251,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 145x4_poster_.png" crc="337513659" ref="index"/>
+    <file name="pasted svg 145x4_poster_.png" crc="180788337" ref="index"/>
     <file name="pasted-svg-420.svg" crc="4036968309" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -318,19 +318,15 @@
       <caption webpage="open-an-account" alt=""/>
     </file>
     <file name="pasted svg 753463x100_poster_.png" crc="4289623849" ref="index"/>
-    <file name="u1220-42.png" crc="506985462" ref="index"/>
     <file name="platform section1414x493.jpg" crc="3853018693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1220-43.png" crc="86275331" ref="index"/>
     <file name="platform section1255x437.jpg" crc="4125168565" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1220-44.png" crc="425268241" ref="index"/>
     <file name="platform section960x335.jpg" crc="3808611147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1220-45.png" crc="4204812147" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="pasted-svg-877x3672.svg" crc="3845700954" seo="true" ref="products">
       <caption webpage="products" alt=""/>
@@ -508,10 +504,10 @@
     <file name="u1621-45.png" crc="3974674024" ref="about-us"/>
     <file name="about us header-u12454-fr.jpg" crc="178430034" ref="about-us"/>
   </folder>
-  <file name="index.html" crc="3890780732" seo="true" mt="1522363765956" redirect="true"/>
-  <file name="products.html" crc="463551061" seo="true" mt="1522363765956" redirect="true"/>
-  <file name="open-an-account.html" crc="3925401414" seo="true" mt="1522363765956" redirect="true"/>
-  <file name="platform.html" crc="534846805" seo="true" mt="1522363765956" redirect="true"/>
-  <file name="partnership.html" crc="3764633596" seo="true" mt="1522363765956" redirect="true"/>
-  <file name="about-us.html" crc="4178991000" seo="true" mt="1522364404390" redirect="true"/>
+  <file name="index.html" crc="316410243" seo="true" mt="1522370237166" redirect="true"/>
+  <file name="products.html" crc="3991610793" seo="true" mt="1522370237166" redirect="true"/>
+  <file name="open-an-account.html" crc="4018582012" seo="true" mt="1522370237166" redirect="true"/>
+  <file name="platform.html" crc="4681337" seo="true" mt="1522370237166" redirect="true"/>
+  <file name="partnership.html" crc="488745892" seo="true" mt="1522370237166" redirect="true"/>
+  <file name="about-us.html" crc="4092592176" seo="true" mt="1522370237166" redirect="true"/>
 </manifest>
