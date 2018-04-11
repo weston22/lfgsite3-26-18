@@ -1,20 +1,22 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfg.com" resolutions="1x" timestamp="1522370327752">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfg.com" resolutions="1x" timestamp="1523405150486">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="104950086" ref="platform:index:about-us:open-an-account:partnership:products"/>
-    <file name="nomq_preview_master_a-master.css" crc="284399870" ref="platform:index:about-us:open-an-account:partnership:products"/>
-    <file name="platform.css" crc="3842423661" ref="platform"/>
-    <file name="nomq_platform.css" crc="4089200473" ref="platform"/>
-    <file name="index.css" crc="53093600" ref="index"/>
-    <file name="nomq_index.css" crc="4028539236" ref="index"/>
-    <file name="about-us.css" crc="506524559" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="4121167258" ref="about-us"/>
-    <file name="open-an-account.css" crc="4126114674" ref="open-an-account"/>
-    <file name="nomq_open-an-account.css" crc="497157136" ref="open-an-account"/>
-    <file name="partnership.css" crc="443931537" ref="partnership"/>
-    <file name="nomq_partnership.css" crc="4278668130" ref="partnership"/>
-    <file name="products.css" crc="3843320936" ref="products"/>
-    <file name="nomq_products.css" crc="431178112" ref="products"/>
+    <file name="master_a-master.css" crc="4191184538" ref="about-us:open-an-account:downloads:platform:index:partnership:products"/>
+    <file name="nomq_preview_master_a-master.css" crc="447569522" ref="about-us:open-an-account:downloads:platform:index:partnership:products"/>
+    <file name="about-us.css" crc="4168225179" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="3963640573" ref="about-us"/>
+    <file name="open-an-account.css" crc="3920316489" ref="open-an-account"/>
+    <file name="nomq_open-an-account.css" crc="4240488776" ref="open-an-account"/>
+    <file name="downloads.css" crc="3884316130" ref="downloads"/>
+    <file name="nomq_downloads.css" crc="514369347" ref="downloads"/>
+    <file name="platform.css" crc="210553035" ref="platform"/>
+    <file name="nomq_platform.css" crc="4176235945" ref="platform"/>
+    <file name="index.css" crc="4117252813" ref="index"/>
+    <file name="nomq_index.css" crc="3873421032" ref="index"/>
+    <file name="partnership.css" crc="4051485310" ref="partnership"/>
+    <file name="nomq_partnership.css" crc="256145432" ref="partnership"/>
+    <file name="products.css" crc="4212966422" ref="products"/>
+    <file name="nomq_products.css" crc="34029893" ref="products"/>
   </folder>
   <folder name="fonts">
     <file name="mont-heavydemo.woff" crc="25595404"/>
@@ -22,32 +24,53 @@
   </folder>
   <folder name="assets">
     <file name="lfg-home-page.svgz" crc="3776409364" seo="true" mt="1522296643000"/>
+    <file name="deposit_notice.pdf" crc="3923404286" seo="true" mt="1523135681000"/>
+    <file name="account_application.pdf" crc="4156996510" seo="true" mt="1523135700000"/>
+    <file name="consulting_fee.pdf" crc="4261074320" seo="true" mt="1523135712000"/>
+    <file name="withdrawl_form.pdf" crc="4078298819" seo="true" mt="1523135725000"/>
+    <file name="ib_application_form.pdf" crc="3856195908" seo="true" mt="1523135764000"/>
+    <file name="signature_card.pdf" crc="287925644" seo="true" mt="1523135778000"/>
+    <file name="trader_setup.exe" crc="4061131770" seo="true" mt="1523398783000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="museutils.js" crc="46400467" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="whatinput.js" crc="86476730" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="museconfig.js" crc="436936948" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:products:open-an-account:platform:partnership:about-us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="museutils.js" crc="46400467" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="museconfig.js" crc="436936948" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:products:platform:partnership:about-us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="index:products:open-an-account:platform:partnership:about-us"/>
-    <file name="require.js" crc="85721165" ref="index:products:open-an-account:platform:partnership:about-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="require.js" crc="85721165" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="515777583" ref="index"/>
-    <file name="pasted-svg-215247x197.svg" crc="79885585" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
+    <file name="pasted-svg-215247x197.svg" crc="234261193" seo="true" ref="index:products:open-an-account:platform:partnership:about-us:downloads">
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
@@ -58,21 +81,43 @@
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="pasted svg 215247x197_poster_.png" crc="316855283" ref="index"/>
-    <file name="home header.jpg" crc="229649037" ref="index">
+    <file name="pasted svg 215247x197_poster_.png" crc="3895277144" ref="index"/>
+    <file name="home header.jpg" crc="229649037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:products:open-an-account:platform:partnership:about-us:downloads"/>
+    <file name="london carosel.jpg" crc="219362368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dubai carosel.jpg" crc="4284728789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="highway carosel.jpg" crc="4248844378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="pasted-svg-877x367.svg" crc="3852192213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -189,14 +234,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-811473x424.svg" crc="3923623291" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 811473x424_poster_.png" crc="3922674730" ref="index"/>
     <file name="pasted-svg-477x77.svg" crc="4013785724" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -205,6 +242,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 477x77_poster_.png" crc="3850551898" ref="index"/>
+    <file name="pasted-svg-811473x424.svg" crc="492614796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 811473x424_poster_.png" crc="383001864" ref="index"/>
     <file name="pasted-svg-187491x41.svg" crc="22775639" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -252,17 +297,27 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 145x4_poster_.png" crc="180788337" ref="index"/>
-    <file name="pasted-svg-420.svg" crc="4036968309" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
+    <file name="pasted-svg-753463x100.svg" crc="250966194" seo="true" ref="index:products:open-an-account:platform:partnership:about-us:downloads">
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="open-an-account" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="platform" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
@@ -273,61 +328,25 @@
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-    </file>
-    <file name="pasted svg 420_poster_.png" crc="10861209" ref="index"/>
-    <file name="pasted-svg-753463x100.svg" crc="250966194" seo="true" ref="index:products:open-an-account:platform:partnership:about-us">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="platform" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
-      <caption webpage="open-an-account" alt=""/>
     </file>
     <file name="pasted svg 753463x100_poster_.png" crc="4289623849" ref="index"/>
+    <file name="home header-u6778-fr.jpg" crc="447799333" ref="index"/>
     <file name="platform section1414x493.jpg" crc="3853018693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="home header-u6778-fr2.jpg" crc="272246216" ref="index"/>
     <file name="platform section1255x437.jpg" crc="4125168565" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="home header-u6778-fr3.jpg" crc="3791336592" ref="index"/>
     <file name="platform section960x335.jpg" crc="3808611147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:products:open-an-account:platform:partnership:about-us"/>
     <file name="pasted-svg-877x3672.svg" crc="3845700954" seo="true" ref="products">
       <caption webpage="products" alt=""/>
       <caption webpage="products" alt=""/>
@@ -336,7 +355,7 @@
       <caption webpage="products" alt=""/>
     </file>
     <file name="pasted svg 877x367_poster_2.png" crc="267857418" ref="products"/>
-    <file name="products header.jpg" crc="45880631" ref="products">
+    <file name="products header new.jpg" crc="334740454" ref="products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="pasted-svg-877x3673.svg" crc="157492130" seo="true" ref="products">
@@ -371,6 +390,7 @@
       <caption webpage="products" alt=""/>
     </file>
     <file name="pasted svg 1161x387_poster_.png" crc="3971251488" ref="products"/>
+    <file name="products header new-u10838-fr.jpg" crc="153561227" ref="products"/>
     <file name="u1285-4.png" crc="43201894" ref="open-an-account"/>
     <file name="u1288-4.png" crc="174241260" ref="open-an-account"/>
     <file name="pasted-svg-680x990.svg" crc="459461624" seo="true" ref="open-an-account">
@@ -413,14 +433,12 @@
       <caption webpage="platform" alt=""/>
     </file>
     <file name="pasted svg 352482x107_poster_.png" crc="4107473402" ref="platform"/>
-    <file name="pasted-svg-63953x639.svg" crc="432892386" seo="true" ref="platform">
-      <caption webpage="platform" alt=""/>
+    <file name="fx bridge scrren.png" crc="41290827" seo="true" ref="platform">
       <caption webpage="platform" alt=""/>
       <caption webpage="platform" alt=""/>
       <caption webpage="platform" alt=""/>
       <caption webpage="platform" alt=""/>
     </file>
-    <file name="pasted svg 63953x639_poster_.png" crc="221597221" ref="platform"/>
     <file name="pasted-svg-695708x100.svg" crc="378232210" seo="true" ref="platform">
       <caption webpage="platform" alt=""/>
       <caption webpage="platform" alt=""/>
@@ -437,15 +455,10 @@
       <caption webpage="platform" alt=""/>
     </file>
     <file name="pasted svg 1334344x290_poster_.png" crc="269510603" ref="platform"/>
-    <file name="pasted-svg-1921x1439.svg" crc="65877283" seo="true" ref="partnership">
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
+    <file name="fx bridge scrren320x321.png" crc="200011401" seo="true" ref="platform">
+      <caption webpage="platform" alt=""/>
     </file>
-    <file name="pasted svg 1921x1439_poster_.png" crc="37322809" ref="partnership"/>
-    <file name="partnership header.jpg" crc="4256171799" ref="partnership">
+    <file name="partnership header small hands.jpg" crc="3769556209" ref="partnership">
       <caption webpage="partnership" alt=""/>
     </file>
     <file name="pasted-svg-877x3675.svg" crc="1290981" seo="true" ref="partnership">
@@ -456,14 +469,22 @@
       <caption webpage="partnership" alt=""/>
     </file>
     <file name="pasted svg 877x367_poster_5.png" crc="473297934" ref="partnership"/>
+    <file name="pasted-svg-1921x1439.svg" crc="32985968" seo="true" ref="partnership">
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+    </file>
+    <file name="pasted svg 1921x1439_poster_.png" crc="524999243" ref="partnership"/>
     <file name="u1557-4.png" crc="3937773130" ref="partnership"/>
     <file name="u1557-42.png" crc="4250983778" ref="partnership"/>
     <file name="u1557-43.png" crc="238673610" ref="partnership"/>
     <file name="u1557-44.png" crc="3830043705" ref="partnership"/>
-    <file name="partnership header-u12363-fr.jpg" crc="4267133713" ref="partnership"/>
+    <file name="partnership header small hands-u12363-fr.jpg" crc="233593802" ref="partnership"/>
     <file name="u1557-45.png" crc="3974674024" ref="partnership"/>
     <file name="u1621-4.png" crc="3937773130" ref="about-us"/>
-    <file name="about us header.jpg" crc="4226766512" ref="about-us">
+    <file name="about us header new.jpg" crc="3767480542" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
     <file name="pasted-svg-877x3676.svg" crc="3946464508" seo="true" ref="about-us">
@@ -501,13 +522,14 @@
     <file name="u1621-42.png" crc="4250983778" ref="about-us"/>
     <file name="u1621-43.png" crc="238673610" ref="about-us"/>
     <file name="u1621-44.png" crc="3830043705" ref="about-us"/>
+    <file name="about us header new-u12454-fr.jpg" crc="4184825831" ref="about-us"/>
     <file name="u1621-45.png" crc="3974674024" ref="about-us"/>
-    <file name="about us header-u12454-fr.jpg" crc="178430034" ref="about-us"/>
   </folder>
-  <file name="index.html" crc="316410243" seo="true" mt="1522370237166" redirect="true"/>
-  <file name="products.html" crc="3991610793" seo="true" mt="1522370237166" redirect="true"/>
-  <file name="open-an-account.html" crc="4018582012" seo="true" mt="1522370237166" redirect="true"/>
-  <file name="platform.html" crc="4681337" seo="true" mt="1522370237166" redirect="true"/>
-  <file name="partnership.html" crc="488745892" seo="true" mt="1522370237166" redirect="true"/>
-  <file name="about-us.html" crc="4092592176" seo="true" mt="1522370237166" redirect="true"/>
+  <file name="index.html" crc="3786561358" seo="true" mt="1523403290168" redirect="true"/>
+  <file name="products.html" crc="3948977805" seo="true" mt="1523404280319" redirect="true"/>
+  <file name="open-an-account.html" crc="4279073525" seo="true" mt="1523403290170" redirect="true"/>
+  <file name="platform.html" crc="491744956" seo="true" mt="1523403290164" redirect="true"/>
+  <file name="partnership.html" crc="4063534371" seo="true" mt="1523403327150" redirect="true"/>
+  <file name="about-us.html" crc="3945282182" seo="true" mt="1523404668066" redirect="true"/>
+  <file name="downloads.html" crc="4062630556" seo="true" mt="1523404920071" redirect="true"/>
 </manifest>
