@@ -11,19 +11,19 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "customer-account.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "customer-account.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=515777583"/>
   <title>CUSTOMER ACCOUNT</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=154847465"/>
-  <link rel="stylesheet" type="text/css" href="css/customer-account.css?crc=177604978" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4206082596"/>
+  <link rel="stylesheet" type="text/css" href="css/customer-account.css?crc=4282728712" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3904937259"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_customer-account.css?crc=265733694" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3968111606"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_customer-account.css?crc=3904385377" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -97,15 +97,61 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix" id="u1263_align_to_page">
         <img class="colelem temp_no_img_src" id="u1285-4" alt="Create your free LFG account" data-orig-src="images/u1285-4.png?crc=43201894" data-image-width="667" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
         <img class="colelem temp_no_img_src" id="u1288-4" alt="Easy Forex Trading" data-orig-src="images/u1288-4.png?crc=174241260" data-image-width="246" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-        <div class="clearfix colelem" id="u11335"><!-- group -->
+        <div class="clearfix colelem" id="pu11329-7"><!-- group -->
          <div class="clearfix grpelem shared_content" id="u11329-7" data-content-guid="u11329-7_content"><!-- content -->
-          <p id="u11329-2">Test your trading strategies with virtual money by setting up a free Forex practice account with virtual funds. Register below and you will receive unlimited access to the Global Hedge trading platform of your choice (including live market rates and live charts) for 30 days.</p>
+          <p id="u11329-2">Test your trading strategies with virtual money by setting up a free Forex practice account with virtual funds.</p>
           <p id="u11329-3">&nbsp;</p>
           <p id="u11329-4">&nbsp;</p>
-          <p>&nbsp;</p>
+          <p id="u11329-5">&nbsp;</p>
          </div>
-         <div class="clip_frame grpelem" id="u1268"><!-- svg -->
-          <img class="svg temp_no_img_src" id="u1266" data-orig-src="images/pasted-svg-680x990.svg?crc=459461624" alt="" data-mu-svgfallback="images/pasted%20svg%20680x990_poster_.png?crc=3899189059" data-image-width="424" data-image-height="617" src="images/blank.gif?crc=4208392903"/>
+         <div class="clearfix grpelem shared_content" id="u24901-4" data-content-guid="u24901-4_content"><!-- content -->
+          <p>Register below and you will receive unlimited access to the Global Hedge trading platform of your choice (including live market rates and live charts) for 30 days.</p>
+         </div>
+         <div class="clearfix grpelem" id="u24828"><!-- group -->
+          <div class="grpelem shared_content" id="u24804" data-content-guid="u24804_content"><!-- simple frame --></div>
+          <form class="form-grp clearfix grpelem" id="widgetu24035" method="post" enctype="multipart/form-data" action="scripts/form-u24035.php"><!-- none box -->
+           <div class="fld-grp clearfix grpelem" id="widgetu24036" data-required="true"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem" id="u24038-4" for="widgetu24036_input"><!-- content --><span class="actAsPara shared_content" data-content-guid="u24038-4_0_content">Name:</span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u24039-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu24036_input" name="custom_U24036" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu24036_prompt" for="widgetu24036_input"><span class="actAsPara shared_content" data-content-guid="widgetu24036_prompt_0_content">Enter Name</span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem" id="widgetu24046" data-required="true" data-type="email"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem" id="u24047-4" for="widgetu24046_input"><!-- content --><span class="actAsPara shared_content" data-content-guid="u24047-4_0_content">Email:</span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u24048-4"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu24046_input" name="Email" tabindex="5"/><label class="wrapped-input fld-prompt" id="widgetu24046_prompt" for="widgetu24046_input"><span class="actAsPara shared_content" data-content-guid="widgetu24046_prompt_0_content">Enter Email</span></label></span>
+           </div>
+           <div class="clearfix grpelem" id="u24041-4"><!-- content -->
+            <p class="shared_content" data-content-guid="u24041-4_0_content">Submitting Form...</p>
+           </div>
+           <div class="clearfix grpelem" id="u24051-4"><!-- content -->
+            <p class="shared_content" data-content-guid="u24051-4_0_content">The server encountered an error.</p>
+           </div>
+           <div class="clearfix grpelem" id="u24040-4"><!-- content -->
+            <p class="shared_content" data-content-guid="u24040-4_0_content">Form received.</p>
+           </div>
+           <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u24050-4" type="submit" value="Create" tabindex="7"><!-- content -->
+            <div style="margin-top:-11px;height:11px;" class="shared_content" data-content-guid="u24050-4_0_content">
+             <p>Create</p>
+            </div>
+           </button>
+           <div class="fld-grp clearfix grpelem" id="widgetu24155" data-required="true"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem" id="u24156-4" for="widgetu24155_input"><!-- content --><span class="actAsPara shared_content" id="u24156-2" data-content-guid="u24156-2_content">Cell Phone:</span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u24157-4"><!-- content --><input class="wrapped-input" type="tel" spellcheck="false" id="widgetu24155_input" name="custom_U24155" tabindex="4"/><label class="wrapped-input fld-prompt" id="widgetu24155_prompt" for="widgetu24155_input"><span class="actAsPara shared_content" data-content-guid="widgetu24155_prompt_0_content">Enter Phone Number</span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem" id="widgetu24550" data-required="true" data-type="checkbox"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem" id="u24553-4" for="widgetu24550_input"><!-- content --><span class="actAsPara shared_content" id="u24553-2" data-content-guid="u24553-2_content">i would like to receive email updates</span></label>
+            <div class="fld-checkbox museBGSize grpelem" id="u24578"><!-- simple frame -->
+             <input class="wrapped-input" type="checkbox" value="1" id="widgetu24550_input" name="custom_U24550" tabindex="6"/>
+             <label for="widgetu24550_input"></label>
+            </div>
+           </div>
+           <div class="fld-grp clearfix grpelem" id="widgetu24708" data-required="true"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem" id="u24711-4" for="widgetu24708_input"><!-- content --><span class="actAsPara shared_content" data-content-guid="u24711-4_0_content">Country:</span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u24710-4"><!-- content --><input class="wrapped-input" type="text" id="widgetu24708_input" name="custom_U24708" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu24708_prompt" for="widgetu24708_input"><span class="actAsPara shared_content" data-content-guid="widgetu24708_prompt_0_content">Enter Country</span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem" id="widgetu24756" data-required="true"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem" id="u24758-4" for="widgetu24756_input"><!-- content --><span class="actAsPara shared_content" data-content-guid="u24758-4_0_content">City:</span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u24759-4"><!-- content --><input class="wrapped-input" type="text" id="widgetu24756_input" name="custom_U24756" tabindex="3"/><label class="wrapped-input fld-prompt" id="widgetu24756_prompt" for="widgetu24756_input"><span class="actAsPara shared_content" data-content-guid="widgetu24756_prompt_0_content">Enter City</span></label></span>
+           </div>
+          </form>
          </div>
         </div>
         <img class="colelem temp_no_img_src" id="u1388-8" alt="Subscribe to our newsletter to receive this report. Your e-mail address will not be rented or sold. By clicking the button above, you agree to the Terms of Service and Privacy Policy. " data-orig-src="images/u1388-8.png?crc=4106700647" data-image-width="835" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
@@ -125,6 +171,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxunchecked.jpg?crc=495023700" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedrollover.jpg?crc=4076496830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedmousedown.jpg?crc=361678653" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxchecked.jpg?crc=477278992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedrollover.jpg?crc=435737969" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedmousedown.jpg?crc=4004261994" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
   </div>
   <div class="breakpoint" id="bp_1635" data-min-width="1415" data-max-width="1635"><!-- responsive breakpoint node -->
@@ -166,10 +220,52 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix temp_no_id" data-orig-id="u1263_align_to_page">
         <img class="colelem temp_no_id temp_no_img_src" alt="Create your free LFG account" data-orig-src="images/u1285-42.png?crc=4117868431" data-image-width="644" data-orig-id="u1285-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
         <img class="colelem temp_no_id temp_no_img_src" alt="Easy Forex Trading" data-orig-src="images/u1288-42.png?crc=4151313023" data-image-width="233" data-orig-id="u1288-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-        <div class="clearfix colelem temp_no_id" data-orig-id="u11335"><!-- group -->
+        <div class="clearfix colelem temp_no_id" data-orig-id="pu11329-7"><!-- group -->
          <span class="clearfix grpelem placeholder" data-placeholder-for="u11329-7_content"><!-- placeholder node --></span>
-         <div class="clip_frame grpelem temp_no_id" data-orig-id="u1268"><!-- svg -->
-          <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-680x990.svg?crc=459461624" alt="" data-mu-svgfallback="images/pasted%20svg%20680x990_poster_.png?crc=3899189059" data-image-width="361" data-image-height="525" data-orig-id="u1266" src="images/blank.gif?crc=4208392903"/>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u24901-4_content"><!-- placeholder node --></span>
+         <div class="clearfix grpelem temp_no_id" data-orig-id="u24828"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u24804_content"><!-- placeholder node --></span>
+          <form class="form-grp clearfix grpelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u24035.php" data-orig-id="widgetu24035"><!-- none box -->
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24036"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24036_input" data-orig-id="u24038-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24038-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24039-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" spellcheck="false" name="custom_U24036" tabindex="8" data-orig-id="widgetu24036_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24036_input" data-orig-id="widgetu24036_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24036_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu24046"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24046_input" data-orig-id="u24047-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24047-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24048-4"><!-- content --><input class="wrapped-input temp_no_id" type="email" spellcheck="false" name="Email" tabindex="12" data-orig-id="widgetu24046_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24046_input" data-orig-id="widgetu24046_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24046_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u24041-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24041-4_0_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u24051-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24051-4_0_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u24040-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24040-4_0_content"><!-- placeholder node --></span>
+           </div>
+           <button class="submit-btn NoWrap rounded-corners clearfix grpelem temp_no_id" type="submit" value="Create" tabindex="14" data-orig-id="u24050-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24050-4_0_content"><!-- placeholder node --></span>
+           </button>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24155"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24155_input" data-orig-id="u24156-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24156-2_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24157-4"><!-- content --><input class="wrapped-input temp_no_id" type="tel" spellcheck="false" name="custom_U24155" tabindex="11" data-orig-id="widgetu24155_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24155_input" data-orig-id="widgetu24155_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24155_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="checkbox" data-orig-id="widgetu24550"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24550_input" data-orig-id="u24553-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24553-2_content"><!-- placeholder node --></span></label>
+            <div class="fld-checkbox museBGSize grpelem temp_no_id" data-orig-id="u24578"><!-- simple frame -->
+             <input class="wrapped-input temp_no_id" type="checkbox" value="1" name="custom_U24550" tabindex="13" data-orig-id="widgetu24550_input"/>
+             <label for="widgetu24550_input"></label>
+            </div>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24708"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24708_input" data-orig-id="u24711-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24711-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24710-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24708" tabindex="9" data-orig-id="widgetu24708_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24708_input" data-orig-id="widgetu24708_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24708_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24756"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24756_input" data-orig-id="u24758-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24758-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24759-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24756" tabindex="10" data-orig-id="widgetu24756_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24756_input" data-orig-id="widgetu24756_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24756_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+          </form>
          </div>
         </div>
         <img class="colelem temp_no_id temp_no_img_src" alt="Subscribe to our newsletter to receive this report. Your e-mail address will not be rented or sold. By clicking the button above, you agree to the Terms of Service and Privacy Policy. " data-orig-src="images/u1388-82.png?crc=361641481" data-image-width="711" data-orig-id="u1388-8" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
@@ -187,6 +283,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxunchecked.jpg?crc=495023700" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedrollover.jpg?crc=4076496830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedmousedown.jpg?crc=361678653" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxchecked.jpg?crc=477278992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedrollover.jpg?crc=435737969" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedmousedown.jpg?crc=4004261994" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
   </div>
   <div class="breakpoint" id="bp_1414" data-min-width="1256" data-max-width="1414"><!-- responsive breakpoint node -->
@@ -229,10 +333,52 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <div class="clearfix temp_no_id" data-orig-id="u1263_align_to_page">
          <img class="colelem temp_no_id temp_no_img_src" alt="Create your free LFG account" data-orig-src="images/u1285-43.png?crc=3792968016" data-image-width="645" data-orig-id="u1285-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
          <img class="colelem temp_no_id temp_no_img_src" alt="Easy Forex Trading" data-orig-src="images/u1288-43.png?crc=4160949218" data-image-width="239" data-orig-id="u1288-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-         <div class="clearfix colelem temp_no_id" data-orig-id="u11335"><!-- group -->
+         <div class="clearfix colelem temp_no_id" data-orig-id="pu11329-7"><!-- group -->
           <span class="clearfix grpelem placeholder" data-placeholder-for="u11329-7_content"><!-- placeholder node --></span>
-          <div class="clip_frame grpelem temp_no_id" data-orig-id="u1268"><!-- svg -->
-           <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-680x990.svg?crc=459461624" alt="" data-mu-svgfallback="images/pasted%20svg%20680x990_poster_.png?crc=3899189059" data-image-width="312" data-image-height="454" data-orig-id="u1266" src="images/blank.gif?crc=4208392903"/>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u24901-4_content"><!-- placeholder node --></span>
+          <div class="clearfix grpelem temp_no_id" data-orig-id="u24828"><!-- group -->
+           <span class="grpelem placeholder" data-placeholder-for="u24804_content"><!-- placeholder node --></span>
+           <form class="form-grp clearfix grpelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u24035.php" data-orig-id="widgetu24035"><!-- none box -->
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24036"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24036_input" data-orig-id="u24038-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24038-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24039-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" spellcheck="false" name="custom_U24036" tabindex="15" data-orig-id="widgetu24036_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24036_input" data-orig-id="widgetu24036_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24036_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu24046"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24046_input" data-orig-id="u24047-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24047-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24048-4"><!-- content --><input class="wrapped-input temp_no_id" type="email" spellcheck="false" name="Email" tabindex="19" data-orig-id="widgetu24046_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24046_input" data-orig-id="widgetu24046_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24046_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="clearfix grpelem temp_no_id" data-orig-id="u24041-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24041-4_0_content"><!-- placeholder node --></span>
+            </div>
+            <div class="clearfix grpelem temp_no_id" data-orig-id="u24051-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24051-4_0_content"><!-- placeholder node --></span>
+            </div>
+            <div class="clearfix grpelem temp_no_id" data-orig-id="u24040-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24040-4_0_content"><!-- placeholder node --></span>
+            </div>
+            <button class="submit-btn NoWrap rounded-corners clearfix grpelem temp_no_id" type="submit" value="Create" tabindex="21" data-orig-id="u24050-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24050-4_0_content"><!-- placeholder node --></span>
+            </button>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24155"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24155_input" data-orig-id="u24156-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24156-2_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24157-4"><!-- content --><input class="wrapped-input temp_no_id" type="tel" spellcheck="false" name="custom_U24155" tabindex="18" data-orig-id="widgetu24155_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24155_input" data-orig-id="widgetu24155_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24155_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="checkbox" data-orig-id="widgetu24550"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24550_input" data-orig-id="u24553-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24553-2_content"><!-- placeholder node --></span></label>
+             <div class="fld-checkbox museBGSize grpelem temp_no_id" data-orig-id="u24578"><!-- simple frame -->
+              <input class="wrapped-input temp_no_id" type="checkbox" value="1" name="custom_U24550" tabindex="20" data-orig-id="widgetu24550_input"/>
+              <label for="widgetu24550_input"></label>
+             </div>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24708"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24708_input" data-orig-id="u24711-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24711-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24710-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24708" tabindex="16" data-orig-id="widgetu24708_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24708_input" data-orig-id="widgetu24708_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24708_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24756"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24756_input" data-orig-id="u24758-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24758-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24759-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24756" tabindex="17" data-orig-id="widgetu24756_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24756_input" data-orig-id="widgetu24756_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24756_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+           </form>
           </div>
          </div>
          <img class="colelem temp_no_id temp_no_img_src" alt="Subscribe to our newsletter to receive this report. Your e-mail address will not be rented or sold. By clicking the button above, you agree to the Terms of Service and Privacy Policy. " data-orig-src="images/u1388-83.png?crc=147991442" data-image-width="614" data-orig-id="u1388-8" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
@@ -251,6 +397,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxunchecked.jpg?crc=495023700" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedrollover.jpg?crc=4076496830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedmousedown.jpg?crc=361678653" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxchecked.jpg?crc=477278992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedrollover.jpg?crc=435737969" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedmousedown.jpg?crc=4004261994" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
   </div>
   <div class="breakpoint" id="bp_1255" data-min-width="961" data-max-width="1255"><!-- responsive breakpoint node -->
@@ -272,10 +426,52 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <div class="clearfix temp_no_id" data-orig-id="u1263_align_to_page">
          <img class="colelem temp_no_id temp_no_img_src" alt="Create your free LFG account" data-orig-src="images/u1285-44.png?crc=396823104" data-image-width="651" data-orig-id="u1285-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
          <img class="colelem temp_no_id temp_no_img_src" alt="Easy Forex Trading" data-orig-src="images/u1288-44.png?crc=4096365867" data-image-width="254" data-orig-id="u1288-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-         <div class="clearfix colelem temp_no_id" data-orig-id="u11335"><!-- group -->
+         <div class="clearfix colelem temp_no_id" data-orig-id="pu11329-7"><!-- group -->
           <span class="clearfix grpelem placeholder" data-placeholder-for="u11329-7_content"><!-- placeholder node --></span>
-          <div class="clip_frame grpelem temp_no_id" data-orig-id="u1268"><!-- svg -->
-           <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-680x990.svg?crc=459461624" alt="" data-mu-svgfallback="images/pasted%20svg%20680x990_poster_.png?crc=3899189059" data-image-width="277" data-image-height="403" data-orig-id="u1266" src="images/blank.gif?crc=4208392903"/>
+          <span class="clearfix grpelem placeholder" data-placeholder-for="u24901-4_content"><!-- placeholder node --></span>
+          <div class="clearfix grpelem temp_no_id" data-orig-id="u24828"><!-- group -->
+           <span class="grpelem placeholder" data-placeholder-for="u24804_content"><!-- placeholder node --></span>
+           <form class="form-grp clearfix grpelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u24035.php" data-orig-id="widgetu24035"><!-- none box -->
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24036"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24036_input" data-orig-id="u24038-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24038-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24039-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" spellcheck="false" name="custom_U24036" tabindex="22" data-orig-id="widgetu24036_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24036_input" data-orig-id="widgetu24036_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24036_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu24046"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24046_input" data-orig-id="u24047-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24047-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24048-4"><!-- content --><input class="wrapped-input temp_no_id" type="email" spellcheck="false" name="Email" tabindex="26" data-orig-id="widgetu24046_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24046_input" data-orig-id="widgetu24046_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24046_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="clearfix grpelem temp_no_id" data-orig-id="u24041-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24041-4_0_content"><!-- placeholder node --></span>
+            </div>
+            <div class="clearfix grpelem temp_no_id" data-orig-id="u24051-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24051-4_0_content"><!-- placeholder node --></span>
+            </div>
+            <div class="clearfix grpelem temp_no_id" data-orig-id="u24040-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24040-4_0_content"><!-- placeholder node --></span>
+            </div>
+            <button class="submit-btn NoWrap rounded-corners clearfix grpelem temp_no_id" type="submit" value="Create" tabindex="28" data-orig-id="u24050-4"><!-- content -->
+             <span class="placeholder" data-placeholder-for="u24050-4_0_content"><!-- placeholder node --></span>
+            </button>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24155"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24155_input" data-orig-id="u24156-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24156-2_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24157-4"><!-- content --><input class="wrapped-input temp_no_id" type="tel" spellcheck="false" name="custom_U24155" tabindex="25" data-orig-id="widgetu24155_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24155_input" data-orig-id="widgetu24155_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24155_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="checkbox" data-orig-id="widgetu24550"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24550_input" data-orig-id="u24553-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24553-2_content"><!-- placeholder node --></span></label>
+             <div class="fld-checkbox museBGSize grpelem temp_no_id" data-orig-id="u24578"><!-- simple frame -->
+              <input class="wrapped-input temp_no_id" type="checkbox" value="1" name="custom_U24550" tabindex="27" data-orig-id="widgetu24550_input"/>
+              <label for="widgetu24550_input"></label>
+             </div>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24708"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24708_input" data-orig-id="u24711-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24711-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24710-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24708" tabindex="23" data-orig-id="widgetu24708_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24708_input" data-orig-id="widgetu24708_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24708_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+            <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24756"><!-- none box -->
+             <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24756_input" data-orig-id="u24758-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24758-4_0_content"><!-- placeholder node --></span></label>
+             <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24759-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24756" tabindex="24" data-orig-id="widgetu24756_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24756_input" data-orig-id="widgetu24756_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24756_prompt_0_content"><!-- placeholder node --></span></label></span>
+            </div>
+           </form>
           </div>
          </div>
          <img class="colelem temp_no_id temp_no_img_src" alt="Subscribe to our newsletter to receive this report. Your e-mail address will not be rented or sold. By clicking the button above, you agree to the Terms of Service and Privacy Policy. " data-orig-src="images/u1388-84.png?crc=4238110641" data-image-width="545" data-orig-id="u1388-8" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
@@ -316,6 +512,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </nav>
     <span class="nonblock nontext MuseLinkActive grpelem placeholder" data-placeholder-for="u1292_content"><!-- placeholder node --></span>
    </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxunchecked.jpg?crc=495023700" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedrollover.jpg?crc=4076496830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedmousedown.jpg?crc=361678653" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxchecked.jpg?crc=477278992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedrollover.jpg?crc=435737969" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedmousedown.jpg?crc=4004261994" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <div class="breakpoint" id="bp_960" data-max-width="960"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
@@ -345,10 +549,52 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix temp_no_id" data-orig-id="u1263_align_to_page">
         <img class="colelem temp_no_id temp_no_img_src" alt="Create your free LFG account" data-orig-src="images/u1285-45.png?crc=357562357" data-image-width="498" data-orig-id="u1285-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
         <img class="colelem temp_no_id temp_no_img_src" alt="Easy Forex Trading" data-orig-src="images/u1288-45.png?crc=50691168" data-image-width="194" data-orig-id="u1288-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
-        <div class="clearfix colelem temp_no_id" data-orig-id="u11335"><!-- group -->
+        <div class="clearfix colelem temp_no_id" data-orig-id="pu11329-7"><!-- group -->
          <span class="clearfix grpelem placeholder" data-placeholder-for="u11329-7_content"><!-- placeholder node --></span>
-         <div class="clip_frame grpelem temp_no_id" data-orig-id="u1268"><!-- svg -->
-          <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/pasted-svg-680x990.svg?crc=459461624" alt="" data-mu-svgfallback="images/pasted%20svg%20680x990_poster_.png?crc=3899189059" data-image-width="212" data-image-height="308" data-orig-id="u1266" src="images/blank.gif?crc=4208392903"/>
+         <span class="clearfix grpelem placeholder" data-placeholder-for="u24901-4_content"><!-- placeholder node --></span>
+         <div class="clearfix grpelem temp_no_id" data-orig-id="u24828"><!-- group -->
+          <span class="grpelem placeholder" data-placeholder-for="u24804_content"><!-- placeholder node --></span>
+          <form class="form-grp clearfix grpelem temp_no_id" method="post" enctype="multipart/form-data" action="scripts/form-u24035.php" data-orig-id="widgetu24035"><!-- none box -->
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24036"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24036_input" data-orig-id="u24038-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24038-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24039-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" spellcheck="false" name="custom_U24036" tabindex="29" data-orig-id="widgetu24036_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24036_input" data-orig-id="widgetu24036_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24036_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="email" data-orig-id="widgetu24046"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24046_input" data-orig-id="u24047-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24047-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24048-4"><!-- content --><input class="wrapped-input temp_no_id" type="email" spellcheck="false" name="Email" tabindex="33" data-orig-id="widgetu24046_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24046_input" data-orig-id="widgetu24046_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24046_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u24041-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24041-4_0_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u24051-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24051-4_0_content"><!-- placeholder node --></span>
+           </div>
+           <div class="clearfix grpelem temp_no_id" data-orig-id="u24040-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24040-4_0_content"><!-- placeholder node --></span>
+           </div>
+           <button class="submit-btn NoWrap rounded-corners clearfix grpelem temp_no_id" type="submit" value="Create" tabindex="35" data-orig-id="u24050-4"><!-- content -->
+            <span class="placeholder" data-placeholder-for="u24050-4_0_content"><!-- placeholder node --></span>
+           </button>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24155"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24155_input" data-orig-id="u24156-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24156-2_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24157-4"><!-- content --><input class="wrapped-input temp_no_id" type="tel" spellcheck="false" name="custom_U24155" tabindex="32" data-orig-id="widgetu24155_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24155_input" data-orig-id="widgetu24155_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24155_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-type="checkbox" data-orig-id="widgetu24550"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24550_input" data-orig-id="u24553-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24553-2_content"><!-- placeholder node --></span></label>
+            <div class="fld-checkbox museBGSize grpelem temp_no_id" data-orig-id="u24578"><!-- simple frame -->
+             <input class="wrapped-input temp_no_id" type="checkbox" value="1" name="custom_U24550" tabindex="34" data-orig-id="widgetu24550_input"/>
+             <label for="widgetu24550_input"></label>
+            </div>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24708"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24708_input" data-orig-id="u24711-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24711-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24710-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24708" tabindex="30" data-orig-id="widgetu24708_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24708_input" data-orig-id="widgetu24708_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24708_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+           <div class="fld-grp clearfix grpelem temp_no_id" data-required="true" data-orig-id="widgetu24756"><!-- none box -->
+            <label class="fld-label actAsDiv clearfix grpelem temp_no_id" for="widgetu24756_input" data-orig-id="u24758-4"><!-- content --><span class="actAsPara placeholder" data-placeholder-for="u24758-4_0_content"><!-- placeholder node --></span></label>
+            <span class="fld-input NoWrap actAsDiv clearfix grpelem temp_no_id" data-orig-id="u24759-4"><!-- content --><input class="wrapped-input temp_no_id" type="text" name="custom_U24756" tabindex="31" data-orig-id="widgetu24756_input"/><label class="wrapped-input fld-prompt temp_no_id" for="widgetu24756_input" data-orig-id="widgetu24756_prompt"><span class="actAsPara placeholder" data-placeholder-for="widgetu24756_prompt_0_content"><!-- placeholder node --></span></label></span>
+           </div>
+          </form>
          </div>
         </div>
         <img class="colelem temp_no_id temp_no_img_src" alt="Subscribe to our newsletter to receive this report. Your e-mail address will not be rented or sold. By clicking the button above, you agree to the Terms of Service and Privacy Policy. " data-orig-src="images/u1388-85.png?crc=4215262328" data-image-width="417" data-orig-id="u1388-8" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
@@ -378,6 +624,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </nav>
     <span class="nonblock nontext MuseLinkActive grpelem placeholder" data-placeholder-for="u1292_content"><!-- placeholder node --></span>
    </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxunchecked.jpg?crc=495023700" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedrollover.jpg?crc=4076496830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxuncheckedmousedown.jpg?crc=361678653" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxchecked.jpg?crc=477278992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedrollover.jpg?crc=435737969" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/checkboxcheckedmousedown.jpg?crc=4004261994" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -390,13 +644,14 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","jquery.musepolyfill.bgsize","webpro","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1635', '#bp_1414', '#bp_1255', '#bp_960'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#widgetu24035', ['#bp_infinity', '#bp_1635', '#bp_1414', '#bp_1255', '#bp_960'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu24035 */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
