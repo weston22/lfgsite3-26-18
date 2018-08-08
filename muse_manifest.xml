@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfga2.com" resolutions="1x" timestamp="1533763700850">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfga2.com" resolutions="1x" timestamp="1533764307451">
   <folder name="css">
     <file name="site_global.css" crc="210254400"/>
-    <file name="partnership.css" crc="184185211" ref="partnership"/>
-    <file name="nomq_partnership.css" crc="356000375" ref="partnership"/>
+    <file name="partnership.css" crc="491808860" ref="partnership"/>
+    <file name="nomq_partnership.css" crc="17014013" ref="partnership"/>
     <file name="iefonts_partnership.css" crc="3824530138" ref="partnership"/>
-    <file name="customer-account.css" crc="4077036596" ref="customer-account"/>
-    <file name="nomq_customer-account.css" crc="4178924421" ref="customer-account"/>
+    <file name="customer-account.css" crc="49645721" ref="customer-account"/>
+    <file name="nomq_customer-account.css" crc="257024136" ref="customer-account"/>
     <file name="iefonts_customer-account.css" crc="3824530138" ref="customer-account"/>
-    <file name="about-us.css" crc="403770863" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="193982335" ref="about-us"/>
+    <file name="about-us.css" crc="386448893" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="254527428" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
-    <file name="trading-platform.css" crc="367969371" ref="trading-platform"/>
-    <file name="nomq_trading-platform.css" crc="146475635" ref="trading-platform"/>
+    <file name="trading-platform.css" crc="4068402049" ref="trading-platform"/>
+    <file name="nomq_trading-platform.css" crc="89636681" ref="trading-platform"/>
     <file name="iefonts_trading-platform.css" crc="3824530138" ref="trading-platform"/>
     <file name="index.css" crc="4041848752" ref="index"/>
     <file name="nomq_index.css" crc="92749576" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="market-data.css" crc="398486299" ref="market-data"/>
-    <file name="nomq_market-data.css" crc="410803392" ref="market-data"/>
+    <file name="market-data.css" crc="4025538488" ref="market-data"/>
+    <file name="nomq_market-data.css" crc="4029315596" ref="market-data"/>
     <file name="iefonts_market-data.css" crc="3824530138" ref="market-data"/>
   </folder>
   <folder name="assets">
@@ -51,13 +51,43 @@
   <folder name="images">
     <file name="home-favicon.ico" crc="225654175" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
-    <file name="lfga logo yellow 3-01.png" crc="205350182" seo="true" ref="index">
+    <file name="lfga logo yellow 3-01.png" crc="205350182" seo="true" ref="index:customer-account:market-data:trading-platform:partnership:about-us">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
     </file>
     <file name="ny carosel.jpg" crc="429040896" ref="index">
       <caption webpage="index" alt=""/>
@@ -402,39 +432,6 @@
     <file name="sc_insta-u40286.png" crc="215583124" ref="index"/>
     <file name="sc_insta-u4028-r6.png" crc="249734321" ref="index"/>
     <file name="customer-account-favicon.ico" crc="225654175" ref="customer-account"/>
-    <file name="pasted-svg-201582x192.svg" crc="3808601519" seo="true" ref="customer-account:market-data:trading-platform:partnership:about-us">
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="market-data" alt=""/>
-      <caption webpage="market-data" alt=""/>
-      <caption webpage="market-data" alt=""/>
-      <caption webpage="market-data" alt=""/>
-      <caption webpage="market-data" alt=""/>
-      <caption webpage="market-data" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="partnership" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-    </file>
-    <file name="pasted svg 201582x192_poster_.png" crc="3822128381" ref="customer-account"/>
     <file name="market-data-favicon.ico" crc="225654175" ref="market-data"/>
     <file name="work_01s.jpg" crc="399404866" ref="market-data">
       <caption webpage="market-data" alt=""/>
@@ -649,9 +646,9 @@
     <file name="asset 1-u26189-r-fr6.png" crc="4183104616" ref="about-us"/>
   </folder>
   <file name="index.html" crc="300942724" seo="true" mt="1533763496584" redirect="true"/>
-  <file name="customer-account.html" crc="201114140" seo="true" mt="1533602238488" redirect="true"/>
-  <file name="market-data.html" crc="3810662643" seo="true" mt="1533638089272" redirect="true"/>
-  <file name="trading-platform.html" crc="3819362060" seo="true" mt="1533637993023" redirect="true"/>
-  <file name="partnership.html" crc="4157676623" seo="true" mt="1533638258488" redirect="true"/>
-  <file name="about-us.html" crc="262175205" seo="true" mt="1533679530434" redirect="true"/>
+  <file name="customer-account.html" crc="474330500" seo="true" mt="1533763941522" redirect="true"/>
+  <file name="market-data.html" crc="4264691208" seo="true" mt="1533764127578" redirect="true"/>
+  <file name="trading-platform.html" crc="441826031" seo="true" mt="1533763972306" redirect="true"/>
+  <file name="partnership.html" crc="4271479195" seo="true" mt="1533763986244" redirect="true"/>
+  <file name="about-us.html" crc="156447160" seo="true" mt="1533764020242" redirect="true"/>
 </manifest>
