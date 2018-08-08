@@ -1,227 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lfga.com/index.html</loc>
-    <lastmod>2018-07-31</lastmod>
+    <loc>http://lfga2.com/index.html</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfga.com/images/ny%20carosel.jpg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/dubai%20day%20carosel.jpg</image:loc>
+      <image:loc>http://lfga2.com/images/team_01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/london%20carosel.jpg</image:loc>
+      <image:loc>http://lfga2.com/images/team_04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/home%20header.jpg</image:loc>
+      <image:loc>http://lfga2.com/images/team_02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-292.svg</image:loc>
+      <image:loc>http://lfga2.com/images/team_03.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-301485x99.svg</image:loc>
+      <image:loc>http://lfga2.com/images/up.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-2922.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-40198x91.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-2923.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-349483x105.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-2924.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-224989x75.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/platform%20section.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1446834x520.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-187491x41.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1584x284.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/home%20page%201st%20section%20bg-01.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1920x813.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-753463x100.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-647043x237.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/platform%20section1414x493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/home%20page%201st%20section%20bg-011414x632.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/platform%20section1255x437.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/home%20page%201st%20section%20bg-011255x561.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/platform%20section960x335.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/home%20page%201st%20section%20bg-01960x429.png</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfga.com/market-data.html</loc>
-    <lastmod>2018-07-31</lastmod>
+    <loc>http://lfga2.com/customer-account.html</loc>
+    <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-753463x100.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-647043x237.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfga.com/about-us.html</loc>
-    <lastmod>2018-07-31</lastmod>
+    <loc>http://lfga2.com/market-data.html</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-753463x100.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-647043x237.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1922x242.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1333135x290.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1402146x1341.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfga.com/partnership.html</loc>
-    <lastmod>2018-07-31</lastmod>
+    <loc>http://lfga2.com/trading-platform.html</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-753463x100.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-647043x237.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1921x1439.svg</image:loc>
+      <image:loc>http://lfga2.com/images/fx%20bridge%20scrren.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfga.com/trading-platform.html</loc>
-    <lastmod>2018-07-31</lastmod>
+    <loc>http://lfga2.com/partnership.html</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-753463x100.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-647043x237.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-1446834x5202.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-324x100.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-324x1002.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-738316x493.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfga.com/customer-account.html</loc>
-    <lastmod>2018-07-31</lastmod>
+    <loc>http://lfga2.com/about-us.html</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-753463x100.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lfga.com/images/pasted-svg-647043x237.svg</image:loc>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lfga.com/assets/signature_card.pdf</loc>
-    <lastmod>2018-04-07</lastmod>
+    <loc>http://lfga2.com/assets/aerial-shot-of-city.mp4</loc>
+    <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lfga.com/assets/withdrawl_form.pdf</loc>
-    <lastmod>2018-04-07</lastmod>
+    <loc>http://lfga2.com/assets/jquery.counterup.min.js</loc>
+    <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lfga.com/assets/ib_application_form.pdf</loc>
-    <lastmod>2018-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/langhome</loc>
-    <lastmod>2018-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/deposit_notice.pdf</loc>
-    <lastmod>2018-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/consulting_fee.pdf</loc>
-    <lastmod>2018-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/account_application.pdf</loc>
-    <lastmod>2018-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/lfg-home-page.svgz</loc>
-    <lastmod>2018-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/trader_setup.exe</loc>
+    <loc>http://lfga2.com/assets/trader_setup.exe</loc>
     <lastmod>2018-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga.com/assets/welcome-to-lfgoptions.html</loc>
-    <lastmod>2018-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

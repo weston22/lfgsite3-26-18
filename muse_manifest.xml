@@ -1,123 +1,57 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfga.com" resolutions="1x" timestamp="1533099168773">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lfga2.com" resolutions="1x" timestamp="1533681425794">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3947522565" ref="market-data:partnership:customer-account:about-us:index:trading-platform"/>
-    <file name="nomq_preview_master_a-master.css" crc="3999299850" ref="market-data:partnership:customer-account:about-us:index:trading-platform"/>
-    <file name="market-data.css" crc="4033314060" ref="market-data"/>
-    <file name="nomq_market-data.css" crc="3969879024" ref="market-data"/>
-    <file name="partnership.css" crc="160402441" ref="partnership"/>
-    <file name="nomq_partnership.css" crc="3830172000" ref="partnership"/>
-    <file name="customer-account.css" crc="4094984949" ref="customer-account"/>
-    <file name="nomq_customer-account.css" crc="175634432" ref="customer-account"/>
-    <file name="about-us.css" crc="4116733656" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="346096206" ref="about-us"/>
-    <file name="index.css" crc="98020075" ref="index"/>
-    <file name="nomq_index.css" crc="263411958" ref="index"/>
-    <file name="trading-platform.css" crc="4245209575" ref="trading-platform"/>
-    <file name="nomq_trading-platform.css" crc="4101176372" ref="trading-platform"/>
-  </folder>
-  <folder name="fonts">
-    <file name="mont-heavydemo.woff" crc="25595404"/>
-    <file name="mont-heavydemo.eot" crc="4176944108"/>
+    <file name="site_global.css" crc="210254400"/>
+    <file name="customer-account.css" crc="3790817082" ref="customer-account"/>
+    <file name="nomq_customer-account.css" crc="4178924421" ref="customer-account"/>
+    <file name="iefonts_customer-account.css" crc="3824530138" ref="customer-account"/>
+    <file name="trading-platform.css" crc="424946150" ref="trading-platform"/>
+    <file name="nomq_trading-platform.css" crc="146475635" ref="trading-platform"/>
+    <file name="iefonts_trading-platform.css" crc="3824530138" ref="trading-platform"/>
+    <file name="index.css" crc="253652232" ref="index"/>
+    <file name="nomq_index.css" crc="516528893" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="about-us.css" crc="4120286088" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="193982335" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
+    <file name="market-data.css" crc="491124776" ref="market-data"/>
+    <file name="nomq_market-data.css" crc="410803392" ref="market-data"/>
+    <file name="iefonts_market-data.css" crc="3824530138" ref="market-data"/>
+    <file name="partnership.css" crc="4187546580" ref="partnership"/>
+    <file name="nomq_partnership.css" crc="356000375" ref="partnership"/>
+    <file name="iefonts_partnership.css" crc="3824530138" ref="partnership"/>
   </folder>
   <folder name="assets">
-    <file name="lfg-home-page.svgz" crc="3776409364" seo="true" mt="1522296643000"/>
-    <file name="deposit_notice.pdf" crc="3923404286" seo="true" mt="1523135681000"/>
-    <file name="account_application.pdf" crc="4156996510" seo="true" mt="1523135700000"/>
-    <file name="consulting_fee.pdf" crc="4261074320" seo="true" mt="1523135712000"/>
-    <file name="withdrawl_form.pdf" crc="4078298819" seo="true" mt="1523135725000"/>
-    <file name="ib_application_form.pdf" crc="3856195908" seo="true" mt="1523135764000"/>
-    <file name="signature_card.pdf" crc="287925644" seo="true" mt="1523135778000"/>
+    <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1533594844000"/>
     <file name="trader_setup.exe" crc="4061131770" seo="true" mt="1523398783000"/>
-    <file name="welcome-to-lfgoptions.html" crc="386289862" seo="true" mt="1526590417000"/>
-    <file name="langhome" crc="386289862" seo="true" mt="1526592145000"/>
+    <file name="aerial-shot-of-city.mp4" crc="4183622843" seo="true" mt="1533633369000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="museutils.js" crc="46400467" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="whatinput.js" crc="86476730" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="museconfig.js" crc="436936948" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:customer-account"/>
-    <file name="webpro.js" crc="4152390327" ref="index:customer-account"/>
-    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
-    <file name="touchswipe.js" crc="4228958816" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="require.js" crc="85721165" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="form_check.php" crc="4286608207" ref="customer-account"/>
-    <file name="form_throttle.php" crc="313199896" ref="customer-account"/>
-    <file name="form_process.php" crc="3855659497" ref="customer-account"/>
-    <file name="form-u24035.php" crc="70520817" ref="customer-account"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="museutils.js" crc="340535759" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="webpro.js" crc="4059564322" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:market-data"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:market-data"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:market-data"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u4369.php" crc="4222866200" ref="index"/>
+    <file name="form-u4223.php" crc="3774314471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="require.js" crc="7928878" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="form-u11555.php" crc="154779418" ref="customer-account"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="515777583" ref="index"/>
-    <file name="ny carosel.jpg" crc="429040896" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:customer-account:trading-platform:partnership:about-us:market-data"/>
-    <file name="dubai day carosel.jpg" crc="4183327330" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="london carosel.jpg" crc="219362368" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home header.jpg" crc="229649037" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="trigger_red-01.png" crc="40654736" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="home-favicon.ico" crc="225654175" ref="index"/>
+    <file name="video-aerial-shot-faster.gif" crc="54612804" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -125,175 +59,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="trigger-01.png" crc="496371718" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:customer-account:market-data:trading-platform:partnership:about-us"/>
+    <file name="pasted-svg-1920x813.svg" crc="231506641" seo="true" ref="index:customer-account:market-data:trading-platform:partnership:about-us">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="open account button.svg" crc="407332997" ref="index"/>
-    <file name="open account button_poster_u33055.png" crc="4278901128" ref="index"/>
-    <file name="open account rollover_1.svg" crc="215657442" ref="index"/>
-    <file name="open account rollover_1_poster_u33087.png" crc="3953520727" ref="index"/>
-    <file name="pasted-svg-292.svg" crc="0" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_.png" crc="4175395471" ref="index"/>
-    <file name="pasted-svg-301485x99.svg" crc="371892913" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 301485x99_poster_.png" crc="241719553" ref="index"/>
-    <file name="trading platform button.svg" crc="4158569655" ref="index"/>
-    <file name="trading platform button_poster_u33063.png" crc="3974510333" ref="index"/>
-    <file name="trading platform rollover.svg" crc="4242334925" ref="index"/>
-    <file name="trading platform rollover_poster_u33095.png" crc="466143710" ref="index"/>
-    <file name="pasted-svg-2922.svg" crc="0" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_2.png" crc="4175395471" ref="index"/>
-    <file name="pasted-svg-40198x91.svg" crc="161167676" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 40198x91_poster_.png" crc="434591800" ref="index"/>
-    <file name="introducing broker application button.svg" crc="4160536297" ref="index"/>
-    <file name="introducing broker application button_poster_u33071.png" crc="3839119784" ref="index"/>
-    <file name="introducing broker application rollover.svg" crc="334343205" ref="index"/>
-    <file name="introducing broker application rollover_poster_u33103.png" crc="216833965" ref="index"/>
-    <file name="pasted-svg-2923.svg" crc="0" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_3.png" crc="4175395471" ref="index"/>
-    <file name="pasted-svg-349483x105.svg" crc="3994499860" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 349483x105_poster_.png" crc="522533694" ref="index"/>
-    <file name="help center button.svg" crc="3802942685" ref="index"/>
-    <file name="help center button_poster_u33079.png" crc="3933979371" ref="index"/>
-    <file name="help center rollover.svg" crc="67985616" ref="index"/>
-    <file name="help center rollover_poster_u33111.png" crc="512857672" ref="index"/>
-    <file name="pasted-svg-2924.svg" crc="0" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 292_poster_4.png" crc="4175395471" ref="index"/>
-    <file name="pasted-svg-224989x75.svg" crc="3793420509" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 224989x75_poster_.png" crc="4064259659" ref="index"/>
-    <file name="platform section.jpg" crc="4239421988" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted-svg-1446834x520.svg" crc="3906075133" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 1446834x520_poster_.png" crc="67990979" ref="index"/>
-    <file name="pasted-svg-187491x41.svg" crc="22775639" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 187491x41_poster_.png" crc="4227979125" ref="index"/>
-    <file name="pasted-svg-1584x284.svg" crc="4270196450" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 1584x284_poster_.png" crc="452578548" ref="index"/>
-    <file name="home page 1st section bg-01.png" crc="118828907" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted-svg-1920x813.svg" crc="231506641" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted svg 1920x813_poster_.png" crc="4199188739" ref="index"/>
-    <file name="pasted-svg-753463x100.svg" crc="250966194" seo="true" ref="index:customer-account:trading-platform:partnership:about-us:market-data">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
@@ -304,6 +84,8 @@
       <caption webpage="market-data" alt=""/>
       <caption webpage="market-data" alt=""/>
       <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
@@ -314,19 +96,183 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="pasted svg 753463x100_poster_.png" crc="4289623849" ref="index"/>
-    <file name="pasted-svg-647043x237.svg" crc="528093097" seo="true" ref="index:customer-account:trading-platform:partnership:about-us:market-data">
+    <file name="pasted svg 1920x813_poster_.png" crc="3788796914" ref="index"/>
+    <file name="about.jpg" crc="153362899" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ipad-watch.gif" crc="311588763" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_02.jpg" crc="3986177880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_01.png" crc="4275710789" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_02.png" crc="84195621" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_03.png" crc="421917294" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_04.png" crc="417595928" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_05.png" crc="377371219" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_06.png" crc="104291753" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_03.jpg" crc="246216544" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_logo_01-u2661-fr.png" crc="4051277468" ref="index"/>
+    <file name="client_logo_01.png" crc="339990496" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_logo_04-u2685-fr.png" crc="4246885740" ref="index"/>
+    <file name="client_logo_04.png" crc="242050358" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_logo_02-u2639-fr.png" crc="4176597640" ref="index"/>
+    <file name="client_logo_02.png" crc="103401793" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_logo_05-u2682-fr.png" crc="4202000455" ref="index"/>
+    <file name="client_logo_05.png" crc="153287852" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_logo_03-u2667-fr.png" crc="4277024625" ref="index"/>
+    <file name="client_logo_03.png" crc="4262283133" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_logo_06-u2679-fr.png" crc="509243151" ref="index"/>
+    <file name="client_logo_06.png" crc="4108905120" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_05.jpg" crc="3920431515" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team_01.jpg" crc="3909039655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team_04.jpg" crc="3909039655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team_02.jpg" crc="3909039655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team_03.jpg" crc="3909039655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sc_fb-u3803.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3803-r.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u4013.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4013-r.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u3934.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3934-r.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u4022.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4022-r.png" crc="4044933506" ref="index"/>
+    <file name="sc_tw-u3804.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3804-r.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u4016.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4016-r.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u3937.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3937-r.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u4025.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4025-r.png" crc="4127219414" ref="index"/>
+    <file name="sc_insta-u3805.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3805-r.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u4019.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4019-r.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u3940.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3940-r.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u4028.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4028-r.png" crc="249734321" ref="index"/>
+    <file name="background_06.jpg" crc="331461205" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up.png" crc="4242388324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-201582x192.svg" crc="3808601519" seo="true" ref="index:customer-account:market-data:trading-platform:partnership:about-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="customer-account" alt=""/>
+      <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
@@ -337,6 +283,8 @@
       <caption webpage="market-data" alt=""/>
       <caption webpage="market-data" alt=""/>
       <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
@@ -347,172 +295,373 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
-      <caption webpage="customer-account" alt=""/>
+      <caption webpage="about-us" alt=""/>
     </file>
-    <file name="pasted svg 647043x237_poster_.png" crc="3854033625" ref="index"/>
-    <file name="house icon.png" crc="143140870" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="pasted svg 201582x192_poster_.png" crc="3822128381" ref="index"/>
+    <file name="4.gif" crc="4119355813" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="account icon 2.png" crc="4235232020" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="ny carosel.jpg" crc="429040896" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="market data icon.png" crc="371939068" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="sc_fb-u38032.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3803-r2.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40132.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4013-r2.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u39342.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3934-r2.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40222.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4022-r2.png" crc="4044933506" ref="index"/>
+    <file name="sc_tw-u38042.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3804-r2.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40162.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4016-r2.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u39372.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3937-r2.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40252.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4025-r2.png" crc="4127219414" ref="index"/>
+    <file name="sc_insta-u38052.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3805-r2.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40192.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4019-r2.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u39402.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3940-r2.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40282.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4028-r2.png" crc="249734321" ref="index"/>
+    <file name="sc_fb-u38033.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3803-r3.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40133.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4013-r3.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u39343.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3934-r3.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40223.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4022-r3.png" crc="4044933506" ref="index"/>
+    <file name="sc_tw-u38043.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3804-r3.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40163.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4016-r3.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u39373.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3937-r3.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40253.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4025-r3.png" crc="4127219414" ref="index"/>
+    <file name="sc_insta-u38053.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3805-r3.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40193.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4019-r3.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u39403.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3940-r3.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40283.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4028-r3.png" crc="249734321" ref="index"/>
+    <file name="client_logo_01-u2661-r-fr.png" crc="75059638" ref="index"/>
+    <file name="client_logo_02-u2639-r-fr.png" crc="240124323" ref="index"/>
+    <file name="client_logo_04-u2685-r-fr.png" crc="4057121957" ref="index"/>
+    <file name="client_logo_05-u2682-r-fr.png" crc="237915407" ref="index"/>
+    <file name="client_logo_03-u2667-r-fr.png" crc="3813753979" ref="index"/>
+    <file name="client_logo_06-u2679-r-fr.png" crc="4290431594" ref="index"/>
+    <file name="sc_fb-u38034.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3803-r4.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40134.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4013-r4.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u39344.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3934-r4.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40224.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4022-r4.png" crc="4044933506" ref="index"/>
+    <file name="sc_tw-u38044.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3804-r4.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40164.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4016-r4.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u39374.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3937-r4.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40254.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4025-r4.png" crc="4127219414" ref="index"/>
+    <file name="sc_insta-u38054.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3805-r4.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40194.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4019-r4.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u39404.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3940-r4.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40284.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4028-r4.png" crc="249734321" ref="index"/>
+    <file name="menu_back.png" crc="122523399" ref="index:customer-account:market-data:trading-platform:partnership:about-us">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="platform icion.png" crc="214987633" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="menu_back_02.png" crc="253246421" ref="index:customer-account:market-data:trading-platform:partnership:about-us">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="partnership icon.png" crc="3868989954" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="background_02-u2193-fr.jpg" crc="3826816493" ref="index"/>
+    <file name="client_logo_01-u2661-r-fr2.png" crc="51217730" ref="index"/>
+    <file name="client_logo_02-u2639-r-fr2.png" crc="3871977336" ref="index"/>
+    <file name="client_logo_04-u2685-r-fr2.png" crc="3922501484" ref="index"/>
+    <file name="client_logo_05-u2682-r-fr2.png" crc="426128682" ref="index"/>
+    <file name="client_logo_03-u2667-r-fr2.png" crc="499044439" ref="index"/>
+    <file name="client_logo_06-u2679-r-fr2.png" crc="3892455576" ref="index"/>
+    <file name="sc_fb-u38035.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3803-r5.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40135.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4013-r5.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u39345.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3934-r5.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40225.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4022-r5.png" crc="4044933506" ref="index"/>
+    <file name="sc_tw-u38045.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3804-r5.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40165.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4016-r5.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u39375.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3937-r5.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40255.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4025-r5.png" crc="4127219414" ref="index"/>
+    <file name="sc_insta-u38055.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3805-r5.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40195.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4019-r5.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u39405.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3940-r5.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40285.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4028-r5.png" crc="249734321" ref="index"/>
+    <file name="background_02-u2193-fr2.jpg" crc="12109711" ref="index"/>
+    <file name="sc_fb-u38036.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3803-r6.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40136.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4013-r6.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u39346.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u3934-r6.png" crc="4044933506" ref="index"/>
+    <file name="sc_fb-u40226.png" crc="3873513980" ref="index"/>
+    <file name="sc_fb-u4022-r6.png" crc="4044933506" ref="index"/>
+    <file name="sc_tw-u38046.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3804-r6.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40166.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4016-r6.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u39376.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u3937-r6.png" crc="4127219414" ref="index"/>
+    <file name="sc_tw-u40256.png" crc="3825889093" ref="index"/>
+    <file name="sc_tw-u4025-r6.png" crc="4127219414" ref="index"/>
+    <file name="sc_insta-u38056.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3805-r6.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40196.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4019-r6.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u39406.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u3940-r6.png" crc="249734321" ref="index"/>
+    <file name="sc_insta-u40286.png" crc="215583124" ref="index"/>
+    <file name="sc_insta-u4028-r6.png" crc="249734321" ref="index"/>
+    <file name="customer-account-favicon.ico" crc="225654175" ref="customer-account"/>
+    <file name="market-data-favicon.ico" crc="225654175" ref="market-data"/>
+    <file name="work_01s.jpg" crc="399404866" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="account icon.png" crc="45832979" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="work_01s-u14463-r-fr.png" crc="4264374492" ref="market-data"/>
+    <file name="work_02s.jpg" crc="4059846746" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="platform section1414x493.jpg" crc="3853018693" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="work_02s-u14461-r-fr.png" crc="4188868349" ref="market-data"/>
+    <file name="work_03s.jpg" crc="4032830011" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="home page 1st section bg-011414x632.png" crc="303370489" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="work_03s-u14460-r-fr.png" crc="3763666100" ref="market-data"/>
+    <file name="work_04s.jpg" crc="4225577489" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="platform section1255x437.jpg" crc="4125168565" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="work_04s-u14457-r-fr.png" crc="352739480" ref="market-data"/>
+    <file name="work_05s.jpg" crc="359543317" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="home page 1st section bg-011255x561.png" crc="3945716903" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="work_05s-u14456-r-fr.png" crc="3763585225" ref="market-data"/>
+    <file name="work_06s.jpg" crc="3968204899" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="platform section960x335.jpg" crc="3808611147" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="work_06s-u14459-r-fr.png" crc="4222477579" ref="market-data"/>
+    <file name="work_07s.jpg" crc="138584175" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="home page 1st section bg-01960x429.png" crc="257835300" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="work_07s-u14455-r-fr.png" crc="4284235542" ref="market-data"/>
+    <file name="work_08s.jpg" crc="361798646" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="u1285-4.png" crc="43201894" ref="customer-account"/>
-    <file name="u1288-4.png" crc="174241260" ref="customer-account"/>
-    <file name="checkboxunchecked.jpg" crc="495023700" ref="customer-account">
-      <caption webpage="customer-account" alt=""/>
+    <file name="work_08s-u14462-r-fr.png" crc="372898897" ref="market-data"/>
+    <file name="work_09s.jpg" crc="4021781385" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="customer-account">
-      <caption webpage="customer-account" alt=""/>
+    <file name="work_09s-u14458-r-fr.png" crc="4221805995" ref="market-data"/>
+    <file name="work_01b.jpg" crc="3845514381" ref="market-data">
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="customer-account">
-      <caption webpage="customer-account" alt=""/>
+    <file name="work_02b.jpg" crc="3951899967" ref="market-data">
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="checkboxchecked.jpg" crc="477278992" ref="customer-account">
-      <caption webpage="customer-account" alt=""/>
+    <file name="work_03b.jpg" crc="3986382381" ref="market-data">
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="customer-account">
-      <caption webpage="customer-account" alt=""/>
+    <file name="work_04b.jpg" crc="323711893" ref="market-data">
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="customer-account">
-      <caption webpage="customer-account" alt=""/>
+    <file name="work_05b.jpg" crc="3821174379" ref="market-data">
+      <caption webpage="market-data" alt=""/>
     </file>
-    <file name="u1388-8.png" crc="4106700647" ref="customer-account"/>
-    <file name="u1285-42.png" crc="4117868431" ref="customer-account"/>
-    <file name="u1288-42.png" crc="4151313023" ref="customer-account"/>
-    <file name="u1388-82.png" crc="361641481" ref="customer-account"/>
-    <file name="u1285-43.png" crc="3792968016" ref="customer-account"/>
-    <file name="u1288-43.png" crc="4160949218" ref="customer-account"/>
-    <file name="u1388-83.png" crc="147991442" ref="customer-account"/>
-    <file name="u1285-44.png" crc="396823104" ref="customer-account"/>
-    <file name="u1288-44.png" crc="4096365867" ref="customer-account"/>
-    <file name="u1388-84.png" crc="4238110641" ref="customer-account"/>
-    <file name="u1285-45.png" crc="357562357" ref="customer-account"/>
-    <file name="u1288-45.png" crc="50691168" ref="customer-account"/>
-    <file name="u1388-85.png" crc="4215262328" ref="customer-account"/>
-    <file name="pasted-svg-1446834x5202.svg" crc="267126897" seo="true" ref="trading-platform">
+    <file name="work_06b.jpg" crc="139136925" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="work_07b.jpg" crc="3824749161" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="work_08b.jpg" crc="3906812332" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="work_09b.jpg" crc="18522443" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="prev_slide.png" crc="3856605401" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="prev_slide-u14474-r-fr.png" crc="4222374278" ref="market-data"/>
+    <file name="next_slide.png" crc="121412311" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="next_slide-u14475-r-fr.png" crc="4253309932" ref="market-data"/>
+    <file name="btn_close.png" crc="4122704427" ref="market-data">
+      <caption webpage="market-data" alt=""/>
+    </file>
+    <file name="btn_close-u14476-r-fr.png" crc="4292248797" ref="market-data"/>
+    <file name="work_02s-u14461-r-fr2.png" crc="4053183324" ref="market-data"/>
+    <file name="work_03s-u14460-r-fr2.png" crc="3921779323" ref="market-data"/>
+    <file name="work_04s-u14457-r-fr2.png" crc="4173147386" ref="market-data"/>
+    <file name="work_05s-u14456-r-fr2.png" crc="129482925" ref="market-data"/>
+    <file name="work_06s-u14459-r-fr2.png" crc="386471312" ref="market-data"/>
+    <file name="work_07s-u14455-r-fr2.png" crc="367084335" ref="market-data"/>
+    <file name="work_08s-u14462-r-fr2.png" crc="456721925" ref="market-data"/>
+    <file name="work_09s-u14458-r-fr2.png" crc="4236122716" ref="market-data"/>
+    <file name="work_01b-u14471-fr.jpg" crc="42695120" ref="market-data"/>
+    <file name="work_02b-u14465-fr.jpg" crc="213054309" ref="market-data"/>
+    <file name="work_03b-u14467-fr.jpg" crc="220840302" ref="market-data"/>
+    <file name="work_04b-u14469-fr.jpg" crc="161062245" ref="market-data"/>
+    <file name="work_05b-u14472-fr.jpg" crc="4010710635" ref="market-data"/>
+    <file name="work_06b-u14466-fr.jpg" crc="4133819930" ref="market-data"/>
+    <file name="work_07b-u14473-fr.jpg" crc="3851652109" ref="market-data"/>
+    <file name="work_08b-u14470-fr.jpg" crc="4192673560" ref="market-data"/>
+    <file name="work_09b-u14468-fr.jpg" crc="3800891050" ref="market-data"/>
+    <file name="work_02s-u14461-r-fr3.png" crc="4181196668" ref="market-data"/>
+    <file name="work_03s-u14460-r-fr3.png" crc="248980373" ref="market-data"/>
+    <file name="work_04s-u14457-r-fr3.png" crc="4025940282" ref="market-data"/>
+    <file name="work_05s-u14456-r-fr3.png" crc="254286331" ref="market-data"/>
+    <file name="work_06s-u14459-r-fr3.png" crc="28601441" ref="market-data"/>
+    <file name="work_07s-u14455-r-fr3.png" crc="345894407" ref="market-data"/>
+    <file name="work_08s-u14462-r-fr3.png" crc="4277612311" ref="market-data"/>
+    <file name="work_09s-u14458-r-fr3.png" crc="4049591616" ref="market-data"/>
+    <file name="work_01b-u14471-fr2.jpg" crc="90347157" ref="market-data"/>
+    <file name="work_02b-u14465-fr2.jpg" crc="4060937781" ref="market-data"/>
+    <file name="work_03b-u14467-fr2.jpg" crc="3927973419" ref="market-data"/>
+    <file name="work_04b-u14469-fr2.jpg" crc="306526682" ref="market-data"/>
+    <file name="work_05b-u14472-fr2.jpg" crc="391370578" ref="market-data"/>
+    <file name="work_06b-u14466-fr2.jpg" crc="3785229743" ref="market-data"/>
+    <file name="work_07b-u14473-fr2.jpg" crc="3910813762" ref="market-data"/>
+    <file name="work_08b-u14470-fr2.jpg" crc="3787711418" ref="market-data"/>
+    <file name="work_09b-u14468-fr2.jpg" crc="3938425181" ref="market-data"/>
+    <file name="work_02s-u14461-r-fr4.png" crc="421787400" ref="market-data"/>
+    <file name="work_03s-u14460-r-fr4.png" crc="90282908" ref="market-data"/>
+    <file name="work_04s-u14457-r-fr4.png" crc="249795537" ref="market-data"/>
+    <file name="work_05s-u14456-r-fr4.png" crc="4079951244" ref="market-data"/>
+    <file name="work_06s-u14459-r-fr4.png" crc="529075096" ref="market-data"/>
+    <file name="work_07s-u14455-r-fr4.png" crc="4196528715" ref="market-data"/>
+    <file name="work_08s-u14462-r-fr4.png" crc="352727706" ref="market-data"/>
+    <file name="work_09s-u14458-r-fr4.png" crc="401619748" ref="market-data"/>
+    <file name="work_01b-u14471-fr3.jpg" crc="346252961" ref="market-data"/>
+    <file name="work_02b-u14465-fr3.jpg" crc="118249341" ref="market-data"/>
+    <file name="work_03b-u14467-fr3.jpg" crc="3987960780" ref="market-data"/>
+    <file name="work_04b-u14469-fr3.jpg" crc="3908860823" ref="market-data"/>
+    <file name="work_05b-u14472-fr3.jpg" crc="6731557" ref="market-data"/>
+    <file name="work_06b-u14466-fr3.jpg" crc="3887709459" ref="market-data"/>
+    <file name="work_07b-u14473-fr3.jpg" crc="132769917" ref="market-data"/>
+    <file name="work_08b-u14470-fr3.jpg" crc="3765059438" ref="market-data"/>
+    <file name="work_09b-u14468-fr3.jpg" crc="57119807" ref="market-data"/>
+    <file name="work_02s-u14461-r-fr5.png" crc="345401125" ref="market-data"/>
+    <file name="work_03s-u14460-r-fr5.png" crc="508970977" ref="market-data"/>
+    <file name="work_04s-u14457-r-fr5.png" crc="77431975" ref="market-data"/>
+    <file name="work_05s-u14456-r-fr5.png" crc="4276101387" ref="market-data"/>
+    <file name="work_06s-u14459-r-fr5.png" crc="349117077" ref="market-data"/>
+    <file name="work_07s-u14455-r-fr5.png" crc="130716075" ref="market-data"/>
+    <file name="work_08s-u14462-r-fr5.png" crc="273365938" ref="market-data"/>
+    <file name="work_09s-u14458-r-fr5.png" crc="3958735794" ref="market-data"/>
+    <file name="work_01b-u14471-fr4.jpg" crc="147081451" ref="market-data"/>
+    <file name="work_02b-u14465-fr4.jpg" crc="4050715374" ref="market-data"/>
+    <file name="work_03b-u14467-fr4.jpg" crc="497465597" ref="market-data"/>
+    <file name="work_04b-u14469-fr4.jpg" crc="88947629" ref="market-data"/>
+    <file name="work_05b-u14472-fr4.jpg" crc="355839711" ref="market-data"/>
+    <file name="work_06b-u14466-fr4.jpg" crc="3887105475" ref="market-data"/>
+    <file name="work_07b-u14473-fr4.jpg" crc="3802810884" ref="market-data"/>
+    <file name="work_08b-u14470-fr4.jpg" crc="353526126" ref="market-data"/>
+    <file name="work_09b-u14468-fr4.jpg" crc="36041724" ref="market-data"/>
+    <file name="trading-platform-favicon.ico" crc="225654175" ref="trading-platform"/>
+    <file name="fx bridge scrren.png" crc="41290827" seo="true" ref="trading-platform">
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
-    </file>
-    <file name="pasted svg 1446834x520_poster_2.png" crc="94623610" ref="trading-platform"/>
-    <file name="u33409-4.png" crc="3914038826" ref="trading-platform"/>
-    <file name="pasted-svg-324x100.svg" crc="358315921" seo="true" ref="trading-platform">
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
       <caption webpage="trading-platform" alt=""/>
     </file>
-    <file name="pasted svg 324x100_poster_.png" crc="3991931365" ref="trading-platform"/>
-    <file name="pasted-svg-324x1002.svg" crc="3890341710" seo="true" ref="trading-platform">
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-      <caption webpage="trading-platform" alt=""/>
-    </file>
-    <file name="pasted svg 324x100_poster_2.png" crc="4056217694" ref="trading-platform"/>
-    <file name="u33409-42.png" crc="4150143266" ref="trading-platform"/>
-    <file name="u33409-43.png" crc="422538712" ref="trading-platform"/>
-    <file name="u33409-44.png" crc="4286816565" ref="trading-platform"/>
-    <file name="u33409-45.png" crc="395894347" ref="trading-platform"/>
-    <file name="pasted-svg-1921x1439.svg" crc="32985968" seo="true" ref="partnership">
+    <file name="partnership-favicon.ico" crc="225654175" ref="partnership"/>
+    <file name="pasted-svg-738316x493.svg" crc="3817994271" seo="true" ref="partnership">
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
       <caption webpage="partnership" alt=""/>
+      <caption webpage="partnership" alt=""/>
     </file>
-    <file name="pasted svg 1921x1439_poster_.png" crc="524999243" ref="partnership"/>
-    <file name="pasted-svg-1922x242.svg" crc="3992991579" seo="true" ref="about-us">
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-    </file>
-    <file name="pasted svg 1922x242_poster_.png" crc="4002345818" ref="about-us"/>
-    <file name="pasted-svg-1333135x290.svg" crc="30851605" seo="true" ref="about-us">
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-    </file>
-    <file name="pasted svg 1333135x290_poster_.png" crc="209573129" ref="about-us"/>
-    <file name="pasted-svg-1402146x1341.svg" crc="469043796" seo="true" ref="about-us">
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-    </file>
-    <file name="pasted svg 1402146x1341_poster_.png" crc="300815438" ref="about-us"/>
+    <file name="pasted svg 738316x493_poster_.png" crc="4030983260" ref="partnership"/>
+    <file name="about-us-favicon.ico" crc="225654175" ref="about-us"/>
+    <file name="asset 5-u26189-fr.png" crc="55743493" ref="about-us"/>
+    <file name="asset 1-u26189-r-fr.png" crc="4175257905" ref="about-us"/>
+    <file name="asset 5-u26189-fr2.png" crc="11465194" ref="about-us"/>
+    <file name="asset 1-u26189-r-fr2.png" crc="4083895798" ref="about-us"/>
+    <file name="asset 5-u26189-fr3.png" crc="36099848" ref="about-us"/>
+    <file name="asset 1-u26189-r-fr3.png" crc="3902901501" ref="about-us"/>
+    <file name="asset 5-u26189-fr4.png" crc="4069082236" ref="about-us"/>
+    <file name="asset 1-u26189-r-fr4.png" crc="283084359" ref="about-us"/>
+    <file name="asset 5-u26189-fr5.png" crc="3813031170" ref="about-us"/>
+    <file name="asset 1-u26189-r-fr5.png" crc="4086052316" ref="about-us"/>
+    <file name="asset 5-u26189-fr6.png" crc="319243829" ref="about-us"/>
+    <file name="asset 1-u26189-r-fr6.png" crc="4183104616" ref="about-us"/>
   </folder>
-  <file name="index.html" crc="4111979263" seo="true" mt="1533099103595" redirect="true"/>
-  <file name="customer-account.html" crc="3994773342" seo="true" mt="1533098136727" redirect="true"/>
-  <file name="trading-platform.html" crc="523292204" seo="true" mt="1533098248560" redirect="true"/>
-  <file name="partnership.html" crc="4196840295" seo="true" mt="1533098340973" redirect="true"/>
-  <file name="about-us.html" crc="356759779" seo="true" mt="1533098605856" redirect="true"/>
-  <file name="market-data.html" crc="404417116" seo="true" mt="1533098136731" redirect="true"/>
+  <file name="index.html" crc="3792229712" seo="true" mt="1533681358206" redirect="true"/>
+  <file name="customer-account.html" crc="3877954514" seo="true" mt="1533602238488" redirect="true"/>
+  <file name="market-data.html" crc="74971497" seo="true" mt="1533638089272" redirect="true"/>
+  <file name="trading-platform.html" crc="3801801861" seo="true" mt="1533637993023" redirect="true"/>
+  <file name="partnership.html" crc="229512824" seo="true" mt="1533638258488" redirect="true"/>
+  <file name="about-us.html" crc="170984873" seo="true" mt="1533679530434" redirect="true"/>
 </manifest>
