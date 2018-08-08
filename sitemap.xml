@@ -2,9 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://lfga2.com/index.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfga2.com/images/lfga%20logo%20yellow%203-01.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
     </image:image>
@@ -22,21 +25,6 @@
     </image:image>
     <image:image>
       <image:loc>http://lfga2.com/images/up.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://lfga2.com/customer-account.html</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -67,6 +55,18 @@
     </image:image>
   </url>
   <url>
+    <loc>http://lfga2.com/customer-account.html</loc>
+    <lastmod>2018-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lfga2.com/images/pasted-svg-1920x813.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lfga2.com/images/pasted-svg-201582x192.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://lfga2.com/partnership.html</loc>
     <lastmod>2018-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,20 +94,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lfga2.com/assets/aerial-shot-of-city.mp4</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://lfga2.com/assets/trader_setup.exe</loc>
+    <lastmod>2018-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lfga2.com/assets/jquery.counterup.min.js</loc>
     <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lfga2.com/assets/trader_setup.exe</loc>
-    <lastmod>2018-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -13,14 +13,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "musewpdisclosure.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "about-us.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "require.js", "about-us.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/about-us-favicon.ico?crc=225654175"/>
   <title>SmArty - Multipurpose Responsive Muse Template</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=210254400"/>
-  <link rel="stylesheet" type="text/css" href="css/about-us.css?crc=4120286088" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/about-us.css?crc=403770863" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_about-us.css?crc=3824530138"/>
@@ -466,17 +466,17 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1170', '#bp_1024', '#bp_768', '#bp_600', '#bp_480'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#accordionu22102', ['#bp_600', '#bp_480'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu22102 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_1024').one('muse_this_bp_activate', function(){
-$('#u22163').registerOpacityScrollEffect([{"fade":150,"in":[-Infinity,300],"opacity":0},{"in":[300,300],"opacity":100},{"fade":50,"in":[300,Infinity],"opacity":100}], $(this)); /* scroll effect */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u22163').registerOpacityScrollEffect([{"in":[-Infinity,300],"opacity":0,"fade":150},{"in":[300,300],"opacity":100},{"in":[300,Infinity],"opacity":100,"fade":50}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1170').one('muse_this_bp_activate', function(){
-$('#u22163').registerOpacityScrollEffect([{"fade":150,"in":[-Infinity,300],"opacity":0},{"in":[300,300],"opacity":100},{"fade":50,"in":[300,Infinity],"opacity":100}], $(this)); /* scroll effect */
+$('#u22163').registerOpacityScrollEffect([{"in":[-Infinity,300],"opacity":0,"fade":150},{"in":[300,300],"opacity":100},{"in":[300,Infinity],"opacity":100,"fade":50}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1024').one('muse_this_bp_activate', function(){
+$('#u22163').registerOpacityScrollEffect([{"in":[-Infinity,300],"opacity":0,"fade":150},{"in":[300,300],"opacity":100},{"in":[300,Infinity],"opacity":100,"fade":50}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_768').one('muse_this_bp_activate', function(){
-$('#u22163').registerOpacityScrollEffect([{"fade":150,"in":[-Infinity,300],"opacity":0},{"in":[300,300],"opacity":100},{"fade":50,"in":[300,Infinity],"opacity":100}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u22163').registerOpacityScrollEffect([{"fade":150,"in":[-Infinity,300],"opacity":0},{"in":[300,300],"opacity":100},{"fade":50,"in":[300,Infinity],"opacity":100}], $(this)); /* scroll effect */
+$('#u22163').registerOpacityScrollEffect([{"in":[-Infinity,300],"opacity":0,"fade":150},{"in":[300,300],"opacity":100},{"in":[300,Infinity],"opacity":100,"fade":50}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
